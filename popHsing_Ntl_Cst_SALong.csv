@@ -1,0 +1,97 @@
+Geo_id,State,Region,Counties,Year,Population,Population Density,Housing,Housing Density,Land Area
+0,United States (national),United States (national),All US states and territories,2019,328239523,92.8,139684244,39.5,3537438
+0,United States (national),United States (national),All US states and territories,2018,326687501,92.4,138516439,39.2,3537438
+0,United States (national),United States (national),All US states and territories,2017,324985539,91.9,137366902,38.8,3537438
+0,United States (national),United States (national),All US states and territories,2016,322941311,91.3,136286436,38.5,3537438
+0,United States (national),United States (national),All US states and territories,2015,320635163,90.6,135285123,38.2,3537438
+0,United States (national),United States (national),All US states and territories,2014,318301008,90,134388318,38,3537438
+0,United States (national),United States (national),All US states and territories,2013,315993715,89.3,133538615,37.8,3537438
+0,United States (national),United States (national),All US states and territories,2012,313830990,88.7,132834047,37.6,3537438
+0,United States (national),United States (national),All US states and territories,2011,311556874,88.1,132312816,37.4,3537438
+0,United States (national),United States (national),All US states and territories,2010,309321666,87.4,131825383,37.3,3537438
+0,United States (national),United States (national),All US states and territories,2009,307006550,86.8,129969653,36.7,3537438
+0,United States (national),United States (national),All US states and territories,2008,304059724,86,129065264,36.5,3537438
+0,United States (national),United States (national),All US states and territories,2007,301621157,85.3,127901934,36.2,3537438
+0,United States (national),United States (national),All US states and territories,2006,299398484,84.6,126305754,35.7,3537438
+0,United States (national),United States (national),All US states and territories,2005,296507061,83.8,124521886,35.2,3537438
+0,United States (national),United States (national),All US states and territories,2004,293638158,83,122676668,34.7,3537438
+0,United States (national),United States (national),All US states and territories,2003,290796023,82.2,120969394,34.2,3537438
+0,United States (national),United States (national),All US states and territories,2002,288125973,81.5,119381715,33.7,3537438
+0,United States (national),United States (national),All US states and territories,2001,285226284,80.6,117868605,33.3,3537438
+0,United States (national),United States (national),All US states and territories,2000,281421906,79.6,115904641,32.8,3537438
+0,United States (national),United States (national),All US states and territories,1999,279040168,78.9,,,3537438
+0,United States (national),United States (national),All US states and territories,1998,275854104,78,112498582,31.8,3537438
+0,United States (national),United States (national),All US states and territories,1997,272646925,77.1,111026822,31.4,3537438
+0,United States (national),United States (national),All US states and territories,1996,269394284,76.2,109593027,31,3537438
+0,United States (national),United States (national),All US states and territories,1995,266278393,75.3,108200867,30.6,3537438
+0,United States (national),United States (national),All US states and territories,1994,263125821,74.4,106787537,30.2,3537438
+0,United States (national),United States (national),All US states and territories,1993,259918588,73.5,105519071,29.8,3537438
+0,United States (national),United States (national),All US states and territories,1992,256514224,72.5,104504551,29.5,3537438
+0,United States (national),United States (national),All US states and territories,1991,252980941,71.5,103624707,29.3,3537438
+0,United States (national),United States (national),All US states and territories,1990,249464396,70.5,102262196,28.9,3537438
+0,United States (national),United States (national),All US states and territories,1980,227224681,64.2,82840219,23.4,3537438
+0,United States (national),United States (national),All US states and territories,1970,205052174,58,64023489,18.1,3537438
+99000,Coastal States,Coastal States,Coastal States,2019,266909826,132.3,112657859,55.8,2017989
+99000,Coastal States,Coastal States,Coastal States,2018,265820363,131.7,111749387,55.4,2017989
+99000,Coastal States,Coastal States,Coastal States,2017,264582016,131.1,110863689,54.9,2017989
+99000,Coastal States,Coastal States,Coastal States,2016,262994992,130.3,110033107,54.5,2017989
+99000,Coastal States,Coastal States,Coastal States,2015,261176658,129.4,109250200,54.1,2017989
+99000,Coastal States,Coastal States,Coastal States,2014,259333175,128.5,108559608,53.8,2017989
+99000,Coastal States,Coastal States,Coastal States,2013,257470844,127.6,107904878,53.5,2017989
+99000,Coastal States,Coastal States,Coastal States,2012,255755230,126.7,107364489,53.2,2017989
+99000,Coastal States,Coastal States,Coastal States,2011,253930214,125.8,106961673,53,2017989
+99000,Coastal States,Coastal States,Coastal States,2010,252108076,124.9,106585405,52.8,2017989
+99000,Coastal States,Coastal States,Coastal States,2009,249585546,123.7,104837547,52,2017989
+99000,Coastal States,Coastal States,Coastal States,2008,247320361,122.6,104141474,51.6,2017989
+99000,Coastal States,Coastal States,Coastal States,2007,245535322,121.7,103244147,51.2,2017989
+99000,Coastal States,Coastal States,Coastal States,2006,244118638,121,101992903,50.5,2017989
+99000,Coastal States,Coastal States,Coastal States,2005,242044165,119.9,100619612,49.9,2017989
+99000,Coastal States,Coastal States,Coastal States,2004,239907963,118.9,99184626,49.2,2017989
+99000,Coastal States,Coastal States,Coastal States,2003,237710585,117.8,97858487,48.5,2017989
+99000,Coastal States,Coastal States,Coastal States,2002,235553876,116.7,96617946,47.9,2017989
+99000,Coastal States,Coastal States,Coastal States,2001,233202997,115.6,95450629,47.3,2017989
+99000,Coastal States,Coastal States,Coastal States,2000,230082771,114,93930923,46.5,2017989
+99000,Coastal States,Coastal States,Coastal States,1999,228189268,113.1,,,2017989
+99000,Coastal States,Coastal States,Coastal States,1998,225663126,111.8,,,2017989
+99000,Coastal States,Coastal States,Coastal States,1997,223127043,110.6,,,2017989
+99000,Coastal States,Coastal States,Coastal States,1996,220593502,109.3,,,2017989
+99000,Coastal States,Coastal States,Coastal States,1995,218223492,108.1,,,2017989
+99000,Coastal States,Coastal States,Coastal States,1994,215908321,107,,,2017989
+99000,Coastal States,Coastal States,Coastal States,1993,213564107,105.8,,,2017989
+99000,Coastal States,Coastal States,Coastal States,1992,210996145,104.6,,,2017989
+99000,Coastal States,Coastal States,Coastal States,1991,208245548,103.2,,,2017989
+99000,Coastal States,Coastal States,Coastal States,1990,204794020,101.5,83510217,41.4,2017989
+99000,Coastal States,Coastal States,Coastal States,1980,185395839,91.9,72138762,35.7,2017989
+99000,Coastal States,Coastal States,Coastal States,1970,167912743,83.2,56527192,28,2017989
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2019,121659356,189.8,51218190,79.9,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2018,121426412,189.4,50838476,79.3,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2017,121132205,188.9,50477170,78.7,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2016,120606515,188.1,50139505,78.2,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2015,119858754,186.9,49804588,77.7,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2014,119003826,185.6,49517509,77.2,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2013,118126441,184.2,49249858,76.8,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2012,117273650,182.9,49040458,76.5,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2011,116378468,181.5,48875880,76.2,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2010,115507093,180.2,48727850,76,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2009,115166116,179.6,48135726,75.1,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2008,114202981,178.1,47854742,74.6,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2007,113545703,177.1,47520807,74.1,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2006,113238777,176.6,47020866,73.3,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2005,112951675,176.2,46544848,72.6,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2004,112321044,175.2,45963444,71.7,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2003,111588289,174,45436589,70.9,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2002,110839656,172.9,44968635,70.1,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2001,109927458,171.5,44543914,69.5,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,2000,108632814,169.4,43996877,68.6,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1999,107869937,168.2,,,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1998,106819728,166.6,,,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1997,105731989,164.9,,,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1996,104653154,163.2,,,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1995,103718557,161.8,,,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1994,102897479,160.5,,,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1993,102088713,159.2,,,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1992,101117269,157.7,,,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1991,99922687,155.9,,,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1990,98455519,153.6,40181139,62.7,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1980,89123801,139,35215283,54.9,641135
+99000SHA,Coastal States,Shore Adjacent Regions,All counties,1970,82948558,129.4,28393268,44.3,641135
