@@ -1,0 +1,289 @@
+"","Date","Region","Jurisdiction","Source","Production","Prod_MBbl"
+"1",1981,"Gulf of Mexico","Federal","Offshore",262518,262.518
+"2",1982,"Gulf of Mexico","Federal","Offshore",286725,286.725
+"3",1983,"Gulf of Mexico","Federal","Offshore",319717,319.717
+"4",1984,"Gulf of Mexico","Federal","Offshore",349857,349.857
+"5",1985,"Gulf of Mexico","Federal","Offshore",343443,343.443
+"6",1986,"Gulf of Mexico","Federal","Offshore",350328,350.328
+"7",1987,"Gulf of Mexico","Federal","Offshore",325517,325.517
+"8",1988,"Gulf of Mexico","Federal","Offshore",299460,299.46
+"9",1989,"Gulf of Mexico","Federal","Offshore",278927,278.927
+"10",1990,"Gulf of Mexico","Federal","Offshore",269804,269.804
+"11",1991,"Gulf of Mexico","Federal","Offshore",291755,291.755
+"12",1992,"Gulf of Mexico","Federal","Offshore",300909,300.909
+"13",1993,"Gulf of Mexico","Federal","Offshore",301118,301.118
+"14",1994,"Gulf of Mexico","Federal","Offshore",313822,313.822
+"15",1995,"Gulf of Mexico","Federal","Offshore",344318,344.318
+"16",1996,"Gulf of Mexico","Federal","Offshore",373644,373.644
+"17",1997,"Gulf of Mexico","Federal","Offshore",412168,412.168
+"18",1998,"Gulf of Mexico","Federal","Offshore",448388,448.388
+"19",1999,"Gulf of Mexico","Federal","Offshore",494064,494.064
+"20",2000,"Gulf of Mexico","Federal","Offshore",523250,523.25
+"21",2001,"Gulf of Mexico","Federal","Offshore",560485,560.485
+"22",2002,"Gulf of Mexico","Federal","Offshore",567420,567.42
+"23",2003,"Gulf of Mexico","Federal","Offshore",561065,561.065
+"24",2004,"Gulf of Mexico","Federal","Offshore",535355,535.355
+"25",2005,"Gulf of Mexico","Federal","Offshore",466926,466.926
+"26",2006,"Gulf of Mexico","Federal","Offshore",472078,472.078
+"27",2007,"Gulf of Mexico","Federal","Offshore",467971,467.971
+"28",2008,"Gulf of Mexico","Federal","Offshore",423301,423.301
+"29",2009,"Gulf of Mexico","Federal","Offshore",570309,570.309
+"30",2010,"Gulf of Mexico","Federal","Offshore",566628,566.628
+"31",2011,"Gulf of Mexico","Federal","Offshore",480692,480.692
+"32",2012,"Gulf of Mexico","Federal","Offshore",463272,463.272
+"33",2013,"Gulf of Mexico","Federal","Offshore",458027,458.027
+"34",2014,"Gulf of Mexico","Federal","Offshore",509940,509.94
+"35",2015,"Gulf of Mexico","Federal","Offshore",552928,552.928
+"36",2016,"Gulf of Mexico","Federal","Offshore",585578,585.578
+"37",2017,"Gulf of Mexico","Federal","Offshore",613602,613.602
+"38",2018,"Gulf of Mexico","Federal","Offshore",641970,641.97
+"39",2019,"Gulf of Mexico","Federal","Offshore",692591,692.591
+"40",2020,"Gulf of Mexico","Federal","Offshore",601742,601.742
+"41",2021,"Gulf of Mexico","Federal","Offshore",620883,620.883
+"42",1981,"West Coast","Federal","Offshore",19588,19.588
+"43",1982,"West Coast","Federal","Offshore",28396,28.396
+"44",1983,"West Coast","Federal","Offshore",30527,30.527
+"45",1984,"West Coast","Federal","Offshore",30399,30.399
+"46",1985,"West Coast","Federal","Offshore",29875,29.875
+"47",1986,"West Coast","Federal","Offshore",28606,28.606
+"48",1987,"West Coast","Federal","Offshore",31090,31.09
+"49",1988,"West Coast","Federal","Offshore",31284,31.284
+"50",1989,"West Coast","Federal","Offshore",33076,33.076
+"51",1990,"West Coast","Federal","Offshore",30031,30.031
+"52",1991,"West Coast","Federal","Offshore",31519,31.519
+"53",1992,"West Coast","Federal","Offshore",42552,42.552
+"54",1993,"West Coast","Federal","Offshore",50639,50.639
+"55",1994,"West Coast","Federal","Offshore",57509,57.509
+"56",1995,"West Coast","Federal","Offshore",71709,71.709
+"57",1996,"West Coast","Federal","Offshore",64419,64.419
+"58",1997,"West Coast","Federal","Offshore",54135,54.135
+"59",1998,"West Coast","Federal","Offshore",46233,46.233
+"60",1999,"West Coast","Federal","Offshore",39702,39.702
+"61",2000,"West Coast","Federal","Offshore",34992,34.992
+"62",2001,"West Coast","Federal","Offshore",31103,31.103
+"63",2002,"West Coast","Federal","Offshore",32064,32.064
+"64",2003,"West Coast","Federal","Offshore",29738,29.738
+"65",2004,"West Coast","Federal","Offshore",27509,27.509
+"66",2005,"West Coast","Federal","Offshore",26507,26.507
+"67",2006,"West Coast","Federal","Offshore",25987,25.987
+"68",2007,"West Coast","Federal","Offshore",24624,24.624
+"69",2008,"West Coast","Federal","Offshore",24029,24.029
+"70",2009,"West Coast","Federal","Offshore",22306,22.306
+"71",2010,"West Coast","Federal","Offshore",21707,21.707
+"72",2011,"West Coast","Federal","Offshore",19820,19.82
+"73",2012,"West Coast","Federal","Offshore",17678,17.678
+"74",2013,"West Coast","Federal","Offshore",18566,18.566
+"75",2014,"West Coast","Federal","Offshore",18509,18.509
+"76",2015,"West Coast","Federal","Offshore",11451,11.451
+"77",2016,"West Coast","Federal","Offshore",6144,6.144
+"78",2017,"West Coast","Federal","Offshore",5714,5.714
+"79",2018,"West Coast","Federal","Offshore",4874,4.874
+"80",2019,"West Coast","Federal","Offshore",4449,4.449
+"81",2020,"West Coast","Federal","Offshore",4569,4.569
+"82",2021,"West Coast","Federal","Offshore",4068,4.068
+"83",1977,"California","State","Offshore",15000,15
+"84",1978,"California","State","Offshore",39000,39
+"85",1979,"California","State","Offshore",38000,38
+"86",1980,"California","State","Offshore",36000,36
+"87",1986,"California","State","Offshore",32000,32
+"88",1987,"California","State","Offshore",30000,30
+"89",1988,"California","State","Offshore",30000,30
+"90",1989,"California","State","Offshore",26000,26
+"91",1990,"California","State","Offshore",23000,23
+"92",1991,"California","State","Offshore",23000,23
+"93",1992,"California","State","Offshore",22000,22
+"94",1993,"California","State","Offshore",21000,21
+"95",1994,"California","State","Offshore",21000,21
+"96",1995,"California","State","Offshore",20000,20
+"97",1996,"California","State","Offshore",20000,20
+"98",1997,"California","State","Offshore",21000,21
+"99",1998,"California","State","Offshore",21000,21
+"100",1999,"California","State","Offshore",21000,21
+"101",2000,"California","State","Offshore",19000,19
+"102",2001,"California","State","Offshore",17000,17
+"103",2002,"California","State","Offshore",17000,17
+"104",2003,"California","State","Offshore",16000,16
+"105",2004,"California","State","Offshore",15000,15
+"106",2005,"California","State","Offshore",15000,15
+"107",2006,"California","State","Offshore",15000,15
+"108",2007,"California","State","Offshore",15000,15
+"109",2008,"California","State","Offshore",14000,14
+"110",2009,"California","State","Offshore",14000,14
+"111",2010,"California","State","Offshore",13000,13
+"112",2011,"California","State","Offshore",12000,12
+"113",2012,"California","State","Offshore",13000,13
+"114",2013,"California","State","Offshore",14000,14
+"115",2014,"California","State","Offshore",14000,14
+"116",2015,"California","State","Offshore",13000,13
+"117",2016,"California","State","Offshore",21000,21
+"118",2017,"California","State","Offshore",10000,10
+"119",2018,"California","State","Offshore",10000,10
+"120",2019,"California","State","Offshore",9000,9
+"121",2020,"California","State","Offshore",9000,9
+"122",1977,"Alabama","State","Offshore",10000,10
+"123",1978,"Alabama","State","Offshore",14000,14
+"124",1979,"Alabama","State","Offshore",10000,10
+"125",1980,"Alabama","State","Offshore",9000,9
+"126",1981,"Alabama","State","Offshore",9000,9
+"127",1982,"Alabama","State","Offshore",7000,7
+"128",1983,"Alabama","State","Offshore",7000,7
+"129",1984,"Alabama","State","Offshore",10000,10
+"130",1985,"Alabama","State","Offshore",10000,10
+"131",1986,"Alabama","State","Offshore",12000,12
+"132",1987,"Alabama","State","Offshore",11000,11
+"133",1988,"Alabama","State","Offshore",10000,10
+"134",1989,"Alabama","State","Offshore",9000,9
+"135",1990,"Alabama","State","Offshore",8000,8
+"136",1991,"Alabama","State","Offshore",9000,9
+"137",1992,"Alabama","State","Offshore",9000,9
+"138",1993,"Alabama","State","Offshore",10000,10
+"139",1994,"Alabama","State","Offshore",11000,11
+"140",1995,"Alabama","State","Offshore",11000,11
+"141",1996,"Alabama","State","Offshore",10000,10
+"142",1997,"Alabama","State","Offshore",10000,10
+"143",1998,"Alabama","State","Offshore",7000,7
+"144",1999,"Alabama","State","Offshore",5000,5
+"145",2000,"Alabama","State","Offshore",8000,8
+"146",2001,"Alabama","State","Offshore",4000,4
+"147",2002,"Alabama","State","Offshore",5000,5
+"148",2003,"Alabama","State","Offshore",6000,6
+"149",2004,"Alabama","State","Offshore",5000,5
+"150",2005,"Alabama","State","Offshore",5000,5
+"151",2006,"Alabama","State","Offshore",5000,5
+"152",2007,"Alabama","State","Offshore",5000,5
+"153",2008,"Alabama","State","Offshore",5000,5
+"154",2009,"Alabama","State","Offshore",5000,5
+"155",2010,"Alabama","State","Offshore",5000,5
+"156",2011,"Alabama","State","Offshore",6000,6
+"157",2012,"Alabama","State","Offshore",8000,8
+"158",2013,"Alabama","State","Offshore",8000,8
+"159",2014,"Alabama","State","Offshore",8000,8
+"160",2015,"Alabama","State","Offshore",9000,9
+"161",2016,"Alabama","State","Offshore",7000,7
+"162",2017,"Alabama","State","Offshore",6000,6
+"163",2018,"Alabama","State","Offshore",5000,5
+"164",2019,"Alabama","State","Offshore",4000,4
+"165",2020,"Alabama","State","Offshore",4000,4
+"166",1981,"Lousiana","State","Offshore",20000,20
+"167",1982,"Lousiana","State","Offshore",20000,20
+"168",1983,"Lousiana","State","Offshore",20000,20
+"169",1984,"Lousiana","State","Offshore",20000,20
+"170",1985,"Lousiana","State","Offshore",19000,19
+"171",1986,"Lousiana","State","Offshore",20000,20
+"172",1987,"Lousiana","State","Offshore",19000,19
+"173",1988,"Lousiana","State","Offshore",22000,22
+"174",1989,"Lousiana","State","Offshore",20000,20
+"175",1990,"Lousiana","State","Offshore",22000,22
+"176",1991,"Lousiana","State","Offshore",22000,22
+"177",1992,"Lousiana","State","Offshore",21000,21
+"178",1993,"Lousiana","State","Offshore",25000,25
+"179",1994,"Lousiana","State","Offshore",24000,24
+"180",1995,"Lousiana","State","Offshore",24000,24
+"181",1996,"Lousiana","State","Offshore",23000,23
+"182",1997,"Lousiana","State","Offshore",22000,22
+"183",1998,"Lousiana","State","Offshore",17000,17
+"184",1999,"Lousiana","State","Offshore",17000,17
+"185",2000,"Lousiana","State","Offshore",16000,16
+"186",2001,"Lousiana","State","Offshore",16000,16
+"187",2002,"Lousiana","State","Offshore",13000,13
+"188",2003,"Lousiana","State","Offshore",14000,14
+"189",2004,"Lousiana","State","Offshore",12000,12
+"190",2005,"Lousiana","State","Offshore",8000,8
+"191",2006,"Lousiana","State","Offshore",6000,6
+"192",2007,"Lousiana","State","Offshore",8000,8
+"193",2008,"Lousiana","State","Offshore",7000,7
+"194",2009,"Lousiana","State","Offshore",7000,7
+"195",2010,"Lousiana","State","Offshore",8000,8
+"196",2011,"Lousiana","State","Offshore",8000,8
+"197",2012,"Lousiana","State","Offshore",9000,9
+"198",2013,"Lousiana","State","Offshore",9000,9
+"199",2014,"Lousiana","State","Offshore",9000,9
+"200",2015,"Lousiana","State","Offshore",8000,8
+"201",2016,"Lousiana","State","Offshore",8000,8
+"202",2017,"Lousiana","State","Offshore",7000,7
+"203",2018,"Lousiana","State","Offshore",7000,7
+"204",2019,"Lousiana","State","Offshore",7000,7
+"205",2020,"Lousiana","State","Offshore",5000,5
+"206",1977,"Texas","State","Offshore",1000,1
+"207",1981,"Texas","State","Offshore",1000,1
+"208",1982,"Texas","State","Offshore",1000,1
+"209",1986,"Texas","State","Offshore",0,0
+"210",1987,"Texas","State","Offshore",2000,2
+"211",1988,"Texas","State","Offshore",1000,1
+"212",1989,"Texas","State","Offshore",1000,1
+"213",1990,"Texas","State","Offshore",1000,1
+"214",1991,"Texas","State","Offshore",2000,2
+"215",1992,"Texas","State","Offshore",2000,2
+"216",1993,"Texas","State","Offshore",2000,2
+"217",1994,"Texas","State","Offshore",1000,1
+"218",1995,"Texas","State","Offshore",1000,1
+"219",1996,"Texas","State","Offshore",1000,1
+"220",1997,"Texas","State","Offshore",1000,1
+"221",1998,"Texas","State","Offshore",0,0
+"222",1999,"Texas","State","Offshore",1000,1
+"223",2000,"Texas","State","Offshore",1000,1
+"224",2001,"Texas","State","Offshore",0,0
+"225",2002,"Texas","State","Offshore",1000,1
+"226",2003,"Texas","State","Offshore",1000,1
+"227",2004,"Texas","State","Offshore",1000,1
+"228",2005,"Texas","State","Offshore",1000,1
+"229",2006,"Texas","State","Offshore",0,0
+"230",2007,"Texas","State","Offshore",0,0
+"231",2008,"Texas","State","Offshore",0,0
+"232",2009,"Texas","State","Offshore",0,0
+"233",2010,"Texas","State","Offshore",0,0
+"234",2011,"Texas","State","Offshore",0,0
+"235",2012,"Texas","State","Offshore",0,0
+"236",2013,"Texas","State","Offshore",0,0
+"237",2014,"Texas","State","Offshore",0,0
+"238",2015,"Texas","State","Offshore",0,0
+"239",2016,"Texas","State","Offshore",0,0
+"240",2017,"Texas","State","Offshore",0,0
+"241",2018,"Texas","State","Offshore",0,0
+"242",2019,"Texas","State","Offshore",0,0
+"243",2020,"Texas","State","Offshore",0,0
+"244",1977,"US Total","All","Offshore",26000,26
+"245",1978,"US Total","All","Offshore",53000,53
+"246",1979,"US Total","All","Offshore",48000,48
+"247",1980,"US Total","All","Offshore",45000,45
+"248",1981,"US Total","All","Offshore",312106,312.106
+"249",1982,"US Total","All","Offshore",343121,343.121
+"250",1983,"US Total","All","Offshore",377244,377.244
+"251",1984,"US Total","All","Offshore",410256,410.256
+"252",1985,"US Total","All","Offshore",402318,402.318
+"253",1986,"US Total","All","Offshore",442934,442.934
+"254",1987,"US Total","All","Offshore",418607,418.607
+"255",1988,"US Total","All","Offshore",393744,393.744
+"256",1989,"US Total","All","Offshore",368003,368.003
+"257",1990,"US Total","All","Offshore",353835,353.835
+"258",1991,"US Total","All","Offshore",379274,379.274
+"259",1992,"US Total","All","Offshore",397461,397.461
+"260",1993,"US Total","All","Offshore",409757,409.757
+"261",1994,"US Total","All","Offshore",428331,428.331
+"262",1995,"US Total","All","Offshore",472027,472.027
+"263",1996,"US Total","All","Offshore",492063,492.063
+"264",1997,"US Total","All","Offshore",520303,520.303
+"265",1998,"US Total","All","Offshore",539621,539.621
+"266",1999,"US Total","All","Offshore",577766,577.766
+"267",2000,"US Total","All","Offshore",602242,602.242
+"268",2001,"US Total","All","Offshore",628588,628.588
+"269",2002,"US Total","All","Offshore",635484,635.484
+"270",2003,"US Total","All","Offshore",627803,627.803
+"271",2004,"US Total","All","Offshore",595864,595.864
+"272",2005,"US Total","All","Offshore",522433,522.433
+"273",2006,"US Total","All","Offshore",524065,524.065
+"274",2007,"US Total","All","Offshore",520595,520.595
+"275",2008,"US Total","All","Offshore",473330,473.33
+"276",2009,"US Total","All","Offshore",618615,618.615
+"277",2010,"US Total","All","Offshore",614335,614.335
+"278",2011,"US Total","All","Offshore",526512,526.512
+"279",2012,"US Total","All","Offshore",510950,510.95
+"280",2013,"US Total","All","Offshore",507593,507.593
+"281",2014,"US Total","All","Offshore",559449,559.449
+"282",2015,"US Total","All","Offshore",594379,594.379
+"283",2016,"US Total","All","Offshore",627722,627.722
+"284",2017,"US Total","All","Offshore",642316,642.316
+"285",2018,"US Total","All","Offshore",668844,668.844
+"286",2019,"US Total","All","Offshore",717040,717.04
+"287",2020,"US Total","All","Offshore",624311,624.311
+"288",2021,"US Total","All","Offshore",624951,624.951
