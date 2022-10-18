@@ -1,0 +1,447 @@
+"","geoId","state","stateId","stateAbbreviation","county","coastalCounty","shorelineCounty","sortOrder","regionType","regionName","isCounty"
+"1","00000","All Coastal States",0,"US","Coastal States",0,0,2,"N","U.S.",0
+"2","01000","Alabama",1,"AL","Alabama State",0,0,3,"S","States",0
+"3","01003","Alabama",1,"AL","Baldwin",1,1,3,"S","States",1
+"4","01097","Alabama",1,"AL","Mobile",1,1,3,"S","States",1
+"5","02000","Alaska",2,"AK","Alaska State",0,0,4,"S","States",0
+"6","02013","Alaska",2,"AK","Aleutians East",1,1,4,"S","States",1
+"7","02016","Alaska",2,"AK","Aleutians West",1,1,4,"S","States",1
+"8","02020","Alaska",2,"AK","Anchorage",1,1,4,"S","States",1
+"9","02050","Alaska",2,"AK","Bethel",1,1,4,"S","States",1
+"10","02060","Alaska",2,"AK","Bristol Bay",1,1,4,"S","States",1
+"11","02070","Alaska",2,"AK","Dillingham",1,1,4,"S","States",1
+"12","02100","Alaska",2,"AK","Haines",1,1,4,"S","States",1
+"13","02105","Alaska",2,"AK","Hoonah–Angoon Census Area",1,1,4,"S","States",1
+"14","02110","Alaska",2,"AK","Juneau",1,1,4,"S","States",1
+"15","02122","Alaska",2,"AK","Kenai Peninsula",1,1,4,"S","States",1
+"16","02130","Alaska",2,"AK","Ketchikan Gateway",1,1,4,"S","States",1
+"17","02150","Alaska",2,"AK","Kodiak Island",1,1,4,"S","States",1
+"18","02158","Alaska",2,"AK","Kusilvak Census Area",1,1,4,"S","States",1
+"19","02164","Alaska",2,"AK","Lake and Peninsula",1,1,4,"S","States",1
+"20","02170","Alaska",2,"AK","Matanuska-Susitna",1,1,4,"S","States",1
+"21","02180","Alaska",2,"AK","Nome",1,1,4,"S","States",1
+"22","02185","Alaska",2,"AK","North Slope",1,1,4,"S","States",1
+"23","02188","Alaska",2,"AK","Northwest Arctic",1,1,4,"S","States",1
+"24","02195","Alaska",2,"AK","Petersburg Borough",1,1,4,"S","States",1
+"25","02198","Alaska",2,"AK","Prince of Wales-Hyder Census Area",1,1,4,"S","States",1
+"26","02201","Alaska",2,"AK","Prince of Wales-Outer Ketchikan",1,1,4,"S","States",1
+"27","02220","Alaska",2,"AK","Sitka",1,1,4,"S","States",1
+"28","02232","Alaska",2,"AK","Skagway-Hoonah-Angoon",1,1,4,"S","States",1
+"29","02261","Alaska",2,"AK","Valdez-Cordova",1,1,4,"S","States",1
+"30","02270","Alaska",2,"AK","Wade Hampton",1,1,4,"S","States",1
+"31","02275","Alaska",2,"AK","Wrangell City and Borough",1,1,4,"S","States",1
+"32","02280","Alaska",2,"AK","Wrangell-Petersburg",1,1,4,"S","States",1
+"33","02282","Alaska",2,"AK","Yakutat City and Borough",1,1,4,"S","States",1
+"34","06000","California",6,"CA","California State",0,0,5,"S","States",0
+"35","06001","California",6,"CA","Alameda",1,1,5,"S","States",1
+"36","06013","California",6,"CA","Contra Costa",1,1,5,"S","States",1
+"37","06015","California",6,"CA","Del Norte",1,1,5,"S","States",1
+"38","06023","California",6,"CA","Humboldt",1,1,5,"S","States",1
+"39","06037","California",6,"CA","Los Angeles",1,1,5,"S","States",1
+"40","06041","California",6,"CA","Marin",1,1,5,"S","States",1
+"41","06045","California",6,"CA","Mendocino",1,1,5,"S","States",1
+"42","06053","California",6,"CA","Monterey",1,1,5,"S","States",1
+"43","06055","California",6,"CA","Napa",1,0,5,"S","States",1
+"44","06059","California",6,"CA","Orange",1,1,5,"S","States",1
+"45","06067","California",6,"CA","Sacramento",1,1,5,"S","States",1
+"46","06073","California",6,"CA","San Diego",1,1,5,"S","States",1
+"47","06075","California",6,"CA","San Francisco",1,1,5,"S","States",1
+"48","06077","California",6,"CA","San Joaquin",1,1,5,"S","States",1
+"49","06079","California",6,"CA","San Luis Obispo",1,1,5,"S","States",1
+"50","06081","California",6,"CA","San Mateo",1,1,5,"S","States",1
+"51","06083","California",6,"CA","Santa Barbara",1,1,5,"S","States",1
+"52","06085","California",6,"CA","Santa Clara",1,1,5,"S","States",1
+"53","06087","California",6,"CA","Santa Cruz",1,1,5,"S","States",1
+"54","06095","California",6,"CA","Solano",1,1,5,"S","States",1
+"55","06097","California",6,"CA","Sonoma",1,1,5,"S","States",1
+"56","06111","California",6,"CA","Ventura",1,1,5,"S","States",1
+"57","06113","California",6,"CA","Yolo",1,0,5,"S","States",1
+"58","09000","Connecticut",9,"CT","Connecticut State",0,0,6,"S","States",0
+"59","09001","Connecticut",9,"CT","Fairfield",1,1,6,"S","States",1
+"60","09007","Connecticut",9,"CT","Middlesex",1,1,6,"S","States",1
+"61","09009","Connecticut",9,"CT","New Haven",1,1,6,"S","States",1
+"62","09011","Connecticut",9,"CT","New London",1,1,6,"S","States",1
+"63","10000","Delaware",10,"DE","Delaware State",0,0,7,"S","States",0
+"64","10001","Delaware",10,"DE","Kent",1,1,7,"S","States",1
+"65","10003","Delaware",10,"DE","New Castle",1,1,7,"S","States",1
+"66","10005","Delaware",10,"DE","Sussex",1,1,7,"S","States",1
+"67","12000","Florida",12,"FL","Florida State",0,0,9,"S","States",0
+"68","12005","Florida",12,"FL","Bay",1,1,9,"S","States",1
+"69","12009","Florida",12,"FL","Brevard",1,1,9,"S","States",1
+"70","12011","Florida",12,"FL","Broward",1,1,9,"S","States",1
+"71","12015","Florida",12,"FL","Charlotte",1,1,9,"S","States",1
+"72","12017","Florida",12,"FL","Citrus",1,1,9,"S","States",1
+"73","12019","Florida",12,"FL","Clay",1,0,9,"S","States",1
+"74","12021","Florida",12,"FL","Collier",1,1,9,"S","States",1
+"75","12029","Florida",12,"FL","Dixie",1,1,9,"S","States",1
+"76","12031","Florida",12,"FL","Duval",1,1,9,"S","States",1
+"77","12033","Florida",12,"FL","Escambia",1,1,9,"S","States",1
+"78","12035","Florida",12,"FL","Flagler",1,1,9,"S","States",1
+"79","12037","Florida",12,"FL","Franklin",1,1,9,"S","States",1
+"80","12045","Florida",12,"FL","Gulf",1,1,9,"S","States",1
+"81","12053","Florida",12,"FL","Hernando",1,1,9,"S","States",1
+"82","12057","Florida",12,"FL","Hillsborough",1,1,9,"S","States",1
+"83","12061","Florida",12,"FL","Indian River",1,1,9,"S","States",1
+"84","12065","Florida",12,"FL","Jefferson",1,1,9,"S","States",1
+"85","12069","Florida",12,"FL","Lake",1,0,9,"S","States",1
+"86","12071","Florida",12,"FL","Lee",1,1,9,"S","States",1
+"87","12073","Florida",12,"FL","Leon",1,0,9,"S","States",1
+"88","12075","Florida",12,"FL","Levy",1,1,9,"S","States",1
+"89","12077","Florida",12,"FL","Liberty",1,0,9,"S","States",1
+"90","12081","Florida",12,"FL","Manatee",1,1,9,"S","States",1
+"91","12085","Florida",12,"FL","Martin",1,1,9,"S","States",1
+"92","12086","Florida",12,"FL","Miami-Dade",1,1,9,"S","States",1
+"93","12087","Florida",12,"FL","Monroe",1,1,9,"S","States",1
+"94","12089","Florida",12,"FL","Nassau",1,1,9,"S","States",1
+"95","12091","Florida",12,"FL","Okaloosa",1,1,9,"S","States",1
+"96","12095","Florida",12,"FL","Orange",1,0,9,"S","States",1
+"97","12099","Florida",12,"FL","Palm Beach",1,1,9,"S","States",1
+"98","12101","Florida",12,"FL","Pasco",1,1,9,"S","States",1
+"99","12103","Florida",12,"FL","Pinellas",1,1,9,"S","States",1
+"100","12105","Florida",12,"FL","Polk",1,0,9,"S","States",1
+"101","12107","Florida",12,"FL","Putnam",1,0,9,"S","States",1
+"102","12113","Florida",12,"FL","Santa Rosa",1,1,9,"S","States",1
+"103","12115","Florida",12,"FL","Sarasota",1,1,9,"S","States",1
+"104","12117","Florida",12,"FL","Seminole",1,0,9,"S","States",1
+"105","12109","Florida",12,"FL","St. Johns",1,1,9,"S","States",1
+"106","12111","Florida",12,"FL","St. Lucie",1,1,9,"S","States",1
+"107","12123","Florida",12,"FL","Taylor",1,1,9,"S","States",1
+"108","12127","Florida",12,"FL","Volusia",1,1,9,"S","States",1
+"109","12129","Florida",12,"FL","Wakulla",1,1,9,"S","States",1
+"110","12131","Florida",12,"FL","Walton",1,1,9,"S","States",1
+"111","13000","Georgia",13,"GA","Georgia State",0,0,12,"S","States",0
+"112","13025","Georgia",13,"GA","Brantley",1,0,12,"S","States",1
+"113","13029","Georgia",13,"GA","Bryan",1,1,12,"S","States",1
+"114","13039","Georgia",13,"GA","Camden",1,1,12,"S","States",1
+"115","13049","Georgia",13,"GA","Charlton",1,0,12,"S","States",1
+"116","13051","Georgia",13,"GA","Chatham",1,1,12,"S","States",1
+"117","13127","Georgia",13,"GA","Glynn",1,1,12,"S","States",1
+"118","13179","Georgia",13,"GA","Liberty",1,1,12,"S","States",1
+"119","13191","Georgia",13,"GA","McIntosh",1,1,12,"S","States",1
+"120","13305","Georgia",13,"GA","Wayne",1,0,12,"S","States",1
+"121","15000","Hawai'i",15,"HI","Hawaii State",0,0,13,"S","States",0
+"122","15001","Hawai'i",15,"HI","Hawaii",1,1,13,"S","States",1
+"123","15003","Hawai'i",15,"HI","Honolulu",1,1,13,"S","States",1
+"124","15005","Hawai'i",15,"HI","Kalawao",1,1,13,"S","States",1
+"125","15007","Hawai'i",15,"HI","Kauai",1,1,13,"S","States",1
+"126","15009","Hawai'i",15,"HI","Maui",1,1,13,"S","States",1
+"127","17000","Illinois",17,"IL","Illinois State",0,0,14,"S","States",0
+"128","17031","Illinois",17,"IL","Cook",1,1,14,"S","States",1
+"129","17097","Illinois",17,"IL","Lake",1,1,14,"S","States",1
+"130","18000","Indiana",18,"IN","Indiana State",0,0,15,"S","States",0
+"131","18091","Indiana",18,"IN","La Porte",1,1,15,"S","States",1
+"132","18089","Indiana",18,"IN","Lake",1,1,15,"S","States",1
+"133","18127","Indiana",18,"IN","Porter",1,1,15,"S","States",1
+"134","22000","Louisiana",22,"LA","Louisiana State",0,0,16,"S","States",0
+"135","22019","Louisiana",22,"LA","Calcasieu",0,0,16,"S","States",1
+"136","22023","Louisiana",22,"LA","Cameron",1,1,16,"S","States",1
+"137","22045","Louisiana",22,"LA","Iberia",1,1,16,"S","States",1
+"138","22051","Louisiana",22,"LA","Jefferson",1,1,16,"S","States",1
+"139","22057","Louisiana",22,"LA","Lafourche",1,1,16,"S","States",1
+"140","22063","Louisiana",22,"LA","Livingston",1,0,16,"S","States",1
+"141","22071","Louisiana",22,"LA","Orleans",1,1,16,"S","States",1
+"142","22075","Louisiana",22,"LA","Plaquemines",1,1,16,"S","States",1
+"143","22087","Louisiana",22,"LA","St. Bernard",1,1,16,"S","States",1
+"144","22089","Louisiana",22,"LA","St. Charles",1,0,16,"S","States",1
+"145","22093","Louisiana",22,"LA","St. James",1,0,16,"S","States",1
+"146","22095","Louisiana",22,"LA","St. John the Baptist",1,0,16,"S","States",1
+"147","22099","Louisiana",22,"LA","St. Martin",0,0,16,"S","States",1
+"148","22101","Louisiana",22,"LA","St. Mary",1,1,16,"S","States",1
+"149","22103","Louisiana",22,"LA","St. Tammany",1,1,16,"S","States",1
+"150","22105","Louisiana",22,"LA","Tangipahoa",1,1,16,"S","States",1
+"151","22109","Louisiana",22,"LA","Terrebonne",1,1,16,"S","States",1
+"152","22113","Louisiana",22,"LA","Vermilion",1,1,16,"S","States",1
+"153","23000","Maine",23,"ME","Maine State",0,0,17,"S","States",0
+"154","23005","Maine",23,"ME","Cumberland",1,1,17,"S","States",1
+"155","23009","Maine",23,"ME","Hancock",1,1,17,"S","States",1
+"156","23013","Maine",23,"ME","Knox",1,1,17,"S","States",1
+"157","23015","Maine",23,"ME","Lincoln",1,1,17,"S","States",1
+"158","23023","Maine",23,"ME","Sagadahoc",1,1,17,"S","States",1
+"159","23027","Maine",23,"ME","Waldo",1,1,17,"S","States",1
+"160","23029","Maine",23,"ME","Washington",1,1,17,"S","States",1
+"161","23031","Maine",23,"ME","York",1,1,17,"S","States",1
+"162","24000","Maryland",24,"MD","Maryland State",0,0,18,"S","States",0
+"163","24003","Maryland",24,"MD","Anne Arundel",1,1,18,"S","States",1
+"164","24005","Maryland",24,"MD","Baltimore",1,1,18,"S","States",1
+"165","24510","Maryland",24,"MD","Baltimore City",1,1,18,"S","States",1
+"166","24009","Maryland",24,"MD","Calvert",1,1,18,"S","States",1
+"167","24011","Maryland",24,"MD","Caroline",1,0,18,"S","States",1
+"168","24015","Maryland",24,"MD","Cecil",1,1,18,"S","States",1
+"169","24017","Maryland",24,"MD","Charles",1,1,18,"S","States",1
+"170","24019","Maryland",24,"MD","Dorchester",1,1,18,"S","States",1
+"171","24025","Maryland",24,"MD","Harford",1,1,18,"S","States",1
+"172","24029","Maryland",24,"MD","Kent",1,1,18,"S","States",1
+"173","24033","Maryland",24,"MD","Prince Georges",1,0,18,"S","States",1
+"174","24035","Maryland",24,"MD","Queen Annes",1,1,18,"S","States",1
+"175","24039","Maryland",24,"MD","Somerset",1,1,18,"S","States",1
+"176","24037","Maryland",24,"MD","St. Marys",1,1,18,"S","States",1
+"177","24041","Maryland",24,"MD","Talbot",1,1,18,"S","States",1
+"178","24045","Maryland",24,"MD","Wicomico",1,1,18,"S","States",1
+"179","24047","Maryland",24,"MD","Worcester",1,1,18,"S","States",1
+"180","25000","Massachusetts",25,"MA","Massachusetts State",0,0,19,"S","States",0
+"181","25001","Massachusetts",25,"MA","Barnstable",1,1,19,"S","States",1
+"182","25005","Massachusetts",25,"MA","Bristol",1,1,19,"S","States",1
+"183","25007","Massachusetts",25,"MA","Dukes",1,1,19,"S","States",1
+"184","25009","Massachusetts",25,"MA","Essex",1,1,19,"S","States",1
+"185","25017","Massachusetts",25,"MA","Middlesex",1,0,19,"S","States",1
+"186","25019","Massachusetts",25,"MA","Nantucket",1,1,19,"S","States",1
+"187","25021","Massachusetts",25,"MA","Norfolk",1,1,19,"S","States",1
+"188","25023","Massachusetts",25,"MA","Plymouth",1,1,19,"S","States",1
+"189","25025","Massachusetts",25,"MA","Suffolk",1,1,19,"S","States",1
+"190","26000","Michigan",26,"MI","Michigan State",0,0,20,"S","States",0
+"191","26001","Michigan",26,"MI","Alcona",1,1,20,"S","States",1
+"192","26003","Michigan",26,"MI","Alger",1,1,20,"S","States",1
+"193","26005","Michigan",26,"MI","Allegan",1,1,20,"S","States",1
+"194","26007","Michigan",26,"MI","Alpena",1,1,20,"S","States",1
+"195","26009","Michigan",26,"MI","Antrim",1,1,20,"S","States",1
+"196","26011","Michigan",26,"MI","Arenac",1,1,20,"S","States",1
+"197","26013","Michigan",26,"MI","Baraga",1,1,20,"S","States",1
+"198","26017","Michigan",26,"MI","Bay",1,1,20,"S","States",1
+"199","26019","Michigan",26,"MI","Benzie",1,1,20,"S","States",1
+"200","26021","Michigan",26,"MI","Berrien",1,1,20,"S","States",1
+"201","26029","Michigan",26,"MI","Charlevoix",1,1,20,"S","States",1
+"202","26031","Michigan",26,"MI","Cheboygan",1,1,20,"S","States",1
+"203","26033","Michigan",26,"MI","Chippewa",1,1,20,"S","States",1
+"204","26041","Michigan",26,"MI","Delta",1,1,20,"S","States",1
+"205","26047","Michigan",26,"MI","Emmet",1,1,20,"S","States",1
+"206","26053","Michigan",26,"MI","Gogebic",1,1,20,"S","States",1
+"207","26055","Michigan",26,"MI","Grand Traverse",1,1,20,"S","States",1
+"208","26061","Michigan",26,"MI","Houghton",1,1,20,"S","States",1
+"209","26063","Michigan",26,"MI","Huron",1,1,20,"S","States",1
+"210","26069","Michigan",26,"MI","Iosco",1,1,20,"S","States",1
+"211","26083","Michigan",26,"MI","Keweenaw",1,1,20,"S","States",1
+"212","26089","Michigan",26,"MI","Leelanau",1,1,20,"S","States",1
+"213","26095","Michigan",26,"MI","Luce",1,1,20,"S","States",1
+"214","26097","Michigan",26,"MI","Mackinac",1,1,20,"S","States",1
+"215","26099","Michigan",26,"MI","Macomb",1,1,20,"S","States",1
+"216","26101","Michigan",26,"MI","Manistee",1,1,20,"S","States",1
+"217","26103","Michigan",26,"MI","Marquette",1,1,20,"S","States",1
+"218","26105","Michigan",26,"MI","Mason",1,1,20,"S","States",1
+"219","26109","Michigan",26,"MI","Menominee",1,1,20,"S","States",1
+"220","26115","Michigan",26,"MI","Monroe",1,1,20,"S","States",1
+"221","26121","Michigan",26,"MI","Muskegon",1,1,20,"S","States",1
+"222","26127","Michigan",26,"MI","Oceana",1,1,20,"S","States",1
+"223","26131","Michigan",26,"MI","Ontonagon",1,1,20,"S","States",1
+"224","26139","Michigan",26,"MI","Ottawa",1,1,20,"S","States",1
+"225","26141","Michigan",26,"MI","Presque Isle",1,1,20,"S","States",1
+"226","26145","Michigan",26,"MI","Saginaw",1,1,20,"S","States",1
+"227","26151","Michigan",26,"MI","Sanilac",1,1,20,"S","States",1
+"228","26153","Michigan",26,"MI","Schoolcraft",1,1,20,"S","States",1
+"229","26147","Michigan",26,"MI","St. Clair",1,1,20,"S","States",1
+"230","26157","Michigan",26,"MI","Tuscola",1,1,20,"S","States",1
+"231","26159","Michigan",26,"MI","Van Buren",1,1,20,"S","States",1
+"232","26163","Michigan",26,"MI","Wayne",1,1,20,"S","States",1
+"233","27000","Minnesota",27,"MN","Minnesota State",0,0,21,"S","States",0
+"234","27031","Minnesota",27,"MN","Cook",1,1,21,"S","States",1
+"235","27075","Minnesota",27,"MN","Lake",1,1,21,"S","States",1
+"236","27137","Minnesota",27,"MN","St. Louis",1,1,21,"S","States",1
+"237","28000","Mississippi",28,"MS","Mississippi State",0,0,22,"S","States",0
+"238","28045","Mississippi",28,"MS","Hancock",1,1,22,"S","States",1
+"239","28047","Mississippi",28,"MS","Harrison",1,1,22,"S","States",1
+"240","28059","Mississippi",28,"MS","Jackson",1,1,22,"S","States",1
+"241","33000","New Hampshire",33,"NH","New Hampshire State",0,0,23,"S","States",0
+"242","33015","New Hampshire",33,"NH","Rockingham",1,1,23,"S","States",1
+"243","33017","New Hampshire",33,"NH","Strafford",1,1,23,"S","States",1
+"244","34000","New Jersey",34,"NJ","New Jersey State",0,0,24,"S","States",0
+"245","34001","New Jersey",34,"NJ","Atlantic",1,1,24,"S","States",1
+"246","34003","New Jersey",34,"NJ","Bergen",1,1,24,"S","States",1
+"247","34005","New Jersey",34,"NJ","Burlington",1,0,24,"S","States",1
+"248","34007","New Jersey",34,"NJ","Camden",1,1,24,"S","States",1
+"249","34009","New Jersey",34,"NJ","Cape May",1,1,24,"S","States",1
+"250","34011","New Jersey",34,"NJ","Cumberland",1,1,24,"S","States",1
+"251","34013","New Jersey",34,"NJ","Essex",1,1,24,"S","States",1
+"252","34015","New Jersey",34,"NJ","Gloucester",1,1,24,"S","States",1
+"253","34017","New Jersey",34,"NJ","Hudson",1,1,24,"S","States",1
+"254","34023","New Jersey",34,"NJ","Middlesex",1,1,24,"S","States",1
+"255","34025","New Jersey",34,"NJ","Monmouth",1,1,24,"S","States",1
+"256","34029","New Jersey",34,"NJ","Ocean",1,1,24,"S","States",1
+"257","34033","New Jersey",34,"NJ","Salem",1,1,24,"S","States",1
+"258","34035","New Jersey",34,"NJ","Somerset",1,0,24,"S","States",1
+"259","34039","New Jersey",34,"NJ","Union",1,1,24,"S","States",1
+"260","36000","New York",36,"NY","New York State",0,0,25,"S","States",0
+"261","36001","New York",36,"NY","Albany",1,0,25,"S","States",1
+"262","36005","New York",36,"NY","Bronx",1,1,25,"S","States",1
+"263","36011","New York",36,"NY","Cayuga",1,1,25,"S","States",1
+"264","36013","New York",36,"NY","Chautauqua",1,1,25,"S","States",1
+"265","36027","New York",36,"NY","Dutchess",1,0,25,"S","States",1
+"266","36029","New York",36,"NY","Erie",1,1,25,"S","States",1
+"267","36045","New York",36,"NY","Jefferson",1,1,25,"S","States",1
+"268","36047","New York",36,"NY","Kings",1,1,25,"S","States",1
+"269","36055","New York",36,"NY","Monroe",1,1,25,"S","States",1
+"270","36059","New York",36,"NY","Nassau",1,1,25,"S","States",1
+"271","36061","New York",36,"NY","New York",1,1,25,"S","States",1
+"272","36063","New York",36,"NY","Niagara",1,1,25,"S","States",1
+"273","36071","New York",36,"NY","Orange",1,0,25,"S","States",1
+"274","36073","New York",36,"NY","Orleans",1,1,25,"S","States",1
+"275","36075","New York",36,"NY","Oswego",1,1,25,"S","States",1
+"276","36079","New York",36,"NY","Putnam",1,0,25,"S","States",1
+"277","36081","New York",36,"NY","Queens",1,1,25,"S","States",1
+"278","36085","New York",36,"NY","Richmond",1,1,25,"S","States",1
+"279","36087","New York",36,"NY","Rockland",1,0,25,"S","States",1
+"280","36089","New York",36,"NY","St. Lawrence",1,1,25,"S","States",1
+"281","36103","New York",36,"NY","Suffolk",1,1,25,"S","States",1
+"282","36111","New York",36,"NY","Ulster",1,0,25,"S","States",1
+"283","36117","New York",36,"NY","Wayne",1,1,25,"S","States",1
+"284","36119","New York",36,"NY","Westchester",1,1,25,"S","States",1
+"285","37000","North Carolina",37,"NC","North Carolina State",0,0,28,"S","States",0
+"286","37013","North Carolina",37,"NC","Beaufort",1,1,28,"S","States",1
+"287","37015","North Carolina",37,"NC","Bertie",1,1,28,"S","States",1
+"288","37019","North Carolina",37,"NC","Brunswick",1,1,28,"S","States",1
+"289","37029","North Carolina",37,"NC","Camden",1,1,28,"S","States",1
+"290","37031","North Carolina",37,"NC","Carteret",1,1,28,"S","States",1
+"291","37041","North Carolina",37,"NC","Chowan",1,1,28,"S","States",1
+"292","37049","North Carolina",37,"NC","Craven",1,1,28,"S","States",1
+"293","37053","North Carolina",37,"NC","Currituck",1,1,28,"S","States",1
+"294","37055","North Carolina",37,"NC","Dare",1,1,28,"S","States",1
+"295","37073","North Carolina",37,"NC","Gates",1,0,28,"S","States",1
+"296","37091","North Carolina",37,"NC","Hertford",1,0,28,"S","States",1
+"297","37095","North Carolina",37,"NC","Hyde",1,1,28,"S","States",1
+"298","37129","North Carolina",37,"NC","New Hanover",1,1,28,"S","States",1
+"299","37133","North Carolina",37,"NC","Onslow",1,1,28,"S","States",1
+"300","37137","North Carolina",37,"NC","Pamlico",1,1,28,"S","States",1
+"301","37139","North Carolina",37,"NC","Pasquotank",1,1,28,"S","States",1
+"302","37141","North Carolina",37,"NC","Pender",1,1,28,"S","States",1
+"303","37143","North Carolina",37,"NC","Perquimans",1,1,28,"S","States",1
+"304","37177","North Carolina",37,"NC","Tyrrell",1,1,28,"S","States",1
+"305","37187","North Carolina",37,"NC","Washington",1,1,28,"S","States",1
+"306","39000","Ohio",39,"OH","Ohio State",0,0,29,"S","States",0
+"307","39007","Ohio",39,"OH","Ashtabula",1,1,29,"S","States",1
+"308","39035","Ohio",39,"OH","Cuyahoga",1,1,29,"S","States",1
+"309","39043","Ohio",39,"OH","Erie",1,1,29,"S","States",1
+"310","39085","Ohio",39,"OH","Lake",1,1,29,"S","States",1
+"311","39093","Ohio",39,"OH","Lorain",1,1,29,"S","States",1
+"312","39095","Ohio",39,"OH","Lucas",1,1,29,"S","States",1
+"313","39123","Ohio",39,"OH","Ottawa",1,1,29,"S","States",1
+"314","39143","Ohio",39,"OH","Sandusky",1,1,29,"S","States",1
+"315","39173","Ohio",39,"OH","Wood",1,0,29,"S","States",1
+"316","41000","Oregon",41,"OR","Oregon State",0,0,30,"S","States",0
+"317","41007","Oregon",41,"OR","Clatsop",1,1,30,"S","States",1
+"318","41009","Oregon",41,"OR","Columbia",1,1,30,"S","States",1
+"319","41011","Oregon",41,"OR","Coos",1,1,30,"S","States",1
+"320","41015","Oregon",41,"OR","Curry",1,1,30,"S","States",1
+"321","41019","Oregon",41,"OR","Douglas",1,1,30,"S","States",1
+"322","41039","Oregon",41,"OR","Lane",1,1,30,"S","States",1
+"323","41041","Oregon",41,"OR","Lincoln",1,1,30,"S","States",1
+"324","41051","Oregon",41,"OR","Multnomah",0,1,30,"S","States",1
+"325","41057","Oregon",41,"OR","Tillamook",1,1,30,"S","States",1
+"326","42000","Pennsylvania",42,"PA","Pennsylvania State",0,0,31,"S","States",0
+"327","42017","Pennsylvania",42,"PA","Bucks",1,1,31,"S","States",1
+"328","42045","Pennsylvania",42,"PA","Delaware",1,1,31,"S","States",1
+"329","42049","Pennsylvania",42,"PA","Erie",1,1,31,"S","States",1
+"330","42101","Pennsylvania",42,"PA","Philadelphia",1,1,31,"S","States",1
+"331","44000","Rhode Island",44,"RI","Rhode Island State",0,0,34,"S","States",0
+"332","44001","Rhode Island",44,"RI","Bristol",1,1,34,"S","States",1
+"333","44003","Rhode Island",44,"RI","Kent",1,1,34,"S","States",1
+"334","44005","Rhode Island",44,"RI","Newport",1,1,34,"S","States",1
+"335","44007","Rhode Island",44,"RI","Providence",1,1,34,"S","States",1
+"336","44009","Rhode Island",44,"RI","Washington",1,1,34,"S","States",1
+"337","45000","South Carolina",45,"SC","South Carolina State",0,0,35,"S","States",0
+"338","45013","South Carolina",45,"SC","Beaufort",1,1,35,"S","States",1
+"339","45015","South Carolina",45,"SC","Berkeley",1,0,35,"S","States",1
+"340","45019","South Carolina",45,"SC","Charleston",1,1,35,"S","States",1
+"341","45029","South Carolina",45,"SC","Colleton",1,1,35,"S","States",1
+"342","45035","South Carolina",45,"SC","Dorchester",1,0,35,"S","States",1
+"343","45043","South Carolina",45,"SC","Georgetown",1,1,35,"S","States",1
+"344","45051","South Carolina",45,"SC","Horry",1,1,35,"S","States",1
+"345","45053","South Carolina",45,"SC","Jasper",1,1,35,"S","States",1
+"346","48000","Texas",48,"TX","Texas State",0,0,36,"S","States",0
+"347","48007","Texas",48,"TX","Aransas",1,1,36,"S","States",1
+"348","48039","Texas",48,"TX","Brazoria",1,1,36,"S","States",1
+"349","48057","Texas",48,"TX","Calhoun",1,1,36,"S","States",1
+"350","48061","Texas",48,"TX","Cameron",1,1,36,"S","States",1
+"351","48071","Texas",48,"TX","Chambers",1,1,36,"S","States",1
+"352","48167","Texas",48,"TX","Galveston",1,1,36,"S","States",1
+"353","48201","Texas",48,"TX","Harris",1,1,36,"S","States",1
+"354","48239","Texas",48,"TX","Jackson",1,1,36,"S","States",1
+"355","48245","Texas",48,"TX","Jefferson",1,1,36,"S","States",1
+"356","48261","Texas",48,"TX","Kenedy",1,1,36,"S","States",1
+"357","48273","Texas",48,"TX","Kleberg",1,1,36,"S","States",1
+"358","48321","Texas",48,"TX","Matagorda",1,1,36,"S","States",1
+"359","48355","Texas",48,"TX","Nueces",1,1,36,"S","States",1
+"360","48361","Texas",48,"TX","Orange",1,1,36,"S","States",1
+"361","48391","Texas",48,"TX","Refugio",1,1,36,"S","States",1
+"362","48409","Texas",48,"TX","San Patricio",1,1,36,"S","States",1
+"363","48469","Texas",48,"TX","Victoria",1,1,36,"S","States",1
+"364","48489","Texas",48,"TX","Willacy",1,1,36,"S","States",1
+"365","51000","Virginia",51,"VA","Virginia State",0,0,37,"S","States",0
+"366","51001","Virginia",51,"VA","Accomack",1,1,37,"S","States",1
+"367","51510","Virginia",51,"VA","Alexandria",1,1,37,"S","States",1
+"368","51013","Virginia",51,"VA","Arlington",1,1,37,"S","States",1
+"369","51033","Virginia",51,"VA","Caroline",1,0,37,"S","States",1
+"370","51036","Virginia",51,"VA","Charles City",1,0,37,"S","States",1
+"371","51550","Virginia",51,"VA","Chesapeake",1,0,37,"S","States",1
+"372","51041","Virginia",51,"VA","Chesterfield",1,0,37,"S","States",1
+"373","51057","Virginia",51,"VA","Essex",1,1,37,"S","States",1
+"374","51059","Virginia",51,"VA","Fairfax",1,0,37,"S","States",1
+"375","51073","Virginia",51,"VA","Gloucester",1,1,37,"S","States",1
+"376","51650","Virginia",51,"VA","Hampton",1,1,37,"S","States",1
+"377","51085","Virginia",51,"VA","Hanover",1,0,37,"S","States",1
+"378","51087","Virginia",51,"VA","Henrico",1,0,37,"S","States",1
+"379","51670","Virginia",51,"VA","Hopewell",1,0,37,"S","States",1
+"380","51093","Virginia",51,"VA","Isle of Wight",1,1,37,"S","States",1
+"381","51095","Virginia",51,"VA","James City",1,1,37,"S","States",1
+"382","51097","Virginia",51,"VA","King and Queen",1,0,37,"S","States",1
+"383","51099","Virginia",51,"VA","King George",1,1,37,"S","States",1
+"384","51101","Virginia",51,"VA","King William",1,0,37,"S","States",1
+"385","51103","Virginia",51,"VA","Lancaster",1,1,37,"S","States",1
+"386","51115","Virginia",51,"VA","Mathews",1,1,37,"S","States",1
+"387","51119","Virginia",51,"VA","Middlesex",1,1,37,"S","States",1
+"388","51127","Virginia",51,"VA","New Kent",1,0,37,"S","States",1
+"389","51700","Virginia",51,"VA","Newport News",1,1,37,"S","States",1
+"390","51710","Virginia",51,"VA","Norfolk",1,1,37,"S","States",1
+"391","51131","Virginia",51,"VA","Northampton",1,1,37,"S","States",1
+"392","51133","Virginia",51,"VA","Northumberland",1,1,37,"S","States",1
+"393","51735","Virginia",51,"VA","Poquoson",1,1,37,"S","States",1
+"394","51740","Virginia",51,"VA","Portsmouth",1,1,37,"S","States",1
+"395","51149","Virginia",51,"VA","Prince George",1,0,37,"S","States",1
+"396","51153","Virginia",51,"VA","Prince William",1,1,37,"S","States",1
+"397","51159","Virginia",51,"VA","Richmond",1,1,37,"S","States",1
+"398","51760","Virginia",51,"VA","Richmond City",1,1,37,"S","States",1
+"399","51177","Virginia",51,"VA","Spotsylvania",1,0,37,"S","States",1
+"400","51179","Virginia",51,"VA","Stafford",1,1,37,"S","States",1
+"401","51800","Virginia",51,"VA","Suffolk",1,1,37,"S","States",1
+"402","51181","Virginia",51,"VA","Surry",1,1,37,"S","States",1
+"403","51810","Virginia",51,"VA","Virginia Beach",1,1,37,"S","States",1
+"404","51193","Virginia",51,"VA","Westmoreland",1,1,37,"S","States",1
+"405","51830","Virginia",51,"VA","Williamsburg",1,1,37,"S","States",1
+"406","51199","Virginia",51,"VA","York",1,1,37,"S","States",1
+"407","53000","Washington",53,"WA","Washington State",0,0,38,"S","States",0
+"408","53009","Washington",53,"WA","Clallam",1,1,38,"S","States",1
+"409","53027","Washington",53,"WA","Grays Harbor",1,1,38,"S","States",1
+"410","53029","Washington",53,"WA","Island",1,1,38,"S","States",1
+"411","53031","Washington",53,"WA","Jefferson",1,1,38,"S","States",1
+"412","53033","Washington",53,"WA","King",1,1,38,"S","States",1
+"413","53035","Washington",53,"WA","Kitsap",1,1,38,"S","States",1
+"414","53045","Washington",53,"WA","Mason",1,1,38,"S","States",1
+"415","53049","Washington",53,"WA","Pacific",1,1,38,"S","States",1
+"416","53053","Washington",53,"WA","Pierce",1,1,38,"S","States",1
+"417","53055","Washington",53,"WA","San Juan",1,1,38,"S","States",1
+"418","53057","Washington",53,"WA","Skagit",1,1,38,"S","States",1
+"419","53061","Washington",53,"WA","Snohomish",1,1,38,"S","States",1
+"420","53067","Washington",53,"WA","Thurston",1,1,38,"S","States",1
+"421","53069","Washington",53,"WA","Wahkiakum",1,1,38,"S","States",1
+"422","53073","Washington",53,"WA","Whatcom",1,1,38,"S","States",1
+"423","55000","Wisconsin",55,"WI","Wisconsin State",0,0,39,"S","States",0
+"424","55003","Wisconsin",55,"WI","Ashland",1,1,39,"S","States",1
+"425","55007","Wisconsin",55,"WI","Bayfield",1,1,39,"S","States",1
+"426","55009","Wisconsin",55,"WI","Brown",1,1,39,"S","States",1
+"427","55029","Wisconsin",55,"WI","Door",1,1,39,"S","States",1
+"428","55031","Wisconsin",55,"WI","Douglas",1,1,39,"S","States",1
+"429","55051","Wisconsin",55,"WI","Iron",1,1,39,"S","States",1
+"430","55059","Wisconsin",55,"WI","Kenosha",1,1,39,"S","States",1
+"431","55061","Wisconsin",55,"WI","Kewaunee",1,1,39,"S","States",1
+"432","55071","Wisconsin",55,"WI","Manitowoc",1,1,39,"S","States",1
+"433","55075","Wisconsin",55,"WI","Marinette",1,1,39,"S","States",1
+"434","55079","Wisconsin",55,"WI","Milwaukee",1,1,39,"S","States",1
+"435","55083","Wisconsin",55,"WI","Oconto",1,1,39,"S","States",1
+"436","55089","Wisconsin",55,"WI","Ozaukee",1,1,39,"S","States",1
+"437","55101","Wisconsin",55,"WI","Racine",1,1,39,"S","States",1
+"438","55117","Wisconsin",55,"WI","Sheboygan",1,1,39,"S","States",1
+"439","85000","Northeast Region",85,"NR","Northeast Region counties",0,0,81,"R","Regions",0
+"440","84000","Mid-Atlantic Region",84,"AM","Mid-Atlantic Region counties",0,0,82,"R","Regions",0
+"441","83000","Southeast Region",83,"SE","Southeast Region counties",0,0,83,"R","Regions",0
+"442","82000","Gulf of Mexico Region",82,"GM","Gulf of Mexico Region counties",0,0,84,"R","Regions",0
+"443","80000","Great Lakes Region",80,"GL","Great Lakes Region counties",0,0,85,"R","Regions",0
+"444","81000","West Coast Region",81,"WC","West Coast Region counties",0,0,87,"R","Regions",0
+"445","86000","North Pacific Region",86,"NP","North Pacific Region counties",0,0,88,"R","Regions",0
+"446","87000","Pacific Region",87,"PC","Pacific Region counties",0,0,89,"R","Regions",0
