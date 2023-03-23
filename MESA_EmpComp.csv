@@ -1,0 +1,680 @@
+"IndustrySummary","Type","Sector","SubSector","Industry","Year","employment_T","compensation_M"
+"All Industries","All Industries",,,,2020,"2224",177220.00
+"    Private industries"," Private industries",,,,2020,"1520",87937.00
+"        Agriculture, forestry, fishing, and hunting"," Private industries","Agriculture, forestry, fishing, and hunting",,,2020,"14",1077.00
+"            Farms"," Private industries","Agriculture, forestry, fishing, and hunting","Farms",,2020,"2",83.00
+"            Forestry, fishing, and related activities"," Private industries","Agriculture, forestry, fishing, and hunting","Forestry, fishing, and related activities",,2020,"13",994.00
+"        Mining"," Private industries","Mining","Forestry, fishing, and related activities",,2020,"65",8558.00
+"            Oil and gas extraction"," Private industries","Mining","Oil and gas extraction",,2020,"5",4842.00
+"            Mining, except oil and gas"," Private industries","Mining","Mining, except oil and gas",,2020,"4",307.00
+"            Support activities for mining"," Private industries","Mining","Support activities for mining",,2020,"57",3409.00
+"        Utilities"," Private industries","Utilities","Support activities for mining",,2020,"9",1296.00
+"        Construction"," Private industries","Construction","Support activities for mining",,2020,"81",2908.00
+"        Manufacturing"," Private industries","Manufacturing","Support activities for mining",,2020,"134",10734.00
+"            Durable goods"," Private industries","Manufacturing","Durable goods",,2020,"103",8783.00
+"                Wood products"," Private industries","Manufacturing","Durable goods","Wood products",2020,"0",1.00
+"                Nonmetallic mineral products"," Private industries","Manufacturing","Durable goods","Nonmetallic mineral products",2020,"0",18.00
+"                Primary metals"," Private industries","Manufacturing","Durable goods","Primary metals",2020,"0",1.00
+"                Fabricated metal products"," Private industries","Manufacturing","Durable goods","Fabricated metal products",2020,"1",37.00
+"                Machinery"," Private industries","Manufacturing","Durable goods","Machinery",2020,"11",1417.00
+"                Computer and electronic products"," Private industries","Manufacturing","Durable goods","Computer and electronic products",2020,"0",65.00
+"                Electrical equipment, appliances, and components"," Private industries","Manufacturing","Durable goods","Electrical equipment, appliances, and components",2020,"1",106.00
+"                Motor vehicles, bodies and trailers, and parts"," Private industries","Manufacturing","Durable goods","Motor vehicles, bodies and trailers, and parts",2020,"1",56.00
+"                Other transportation equipment"," Private industries","Manufacturing","Durable goods","Other transportation equipment",2020,"85",6730.00
+"                Furniture and related products"," Private industries","Manufacturing","Durable goods","Furniture and related products",2020,"0",7.00
+"                Miscellaneous manufacturing"," Private industries","Manufacturing","Durable goods","Miscellaneous manufacturing",2020,"4",344.00
+"            Nondurable goods"," Private industries","Manufacturing","Nondurable goods",,2020,"31",1950.00
+"                Food and beverage and tobacco products"," Private industries","Manufacturing","Nondurable goods","Food and beverage and tobacco products",2020,"21",629.00
+"                Textile mills and textile product mills"," Private industries","Manufacturing","Nondurable goods","Textile mills and textile product mills",2020,"1",69.00
+"                Apparel and leather and allied products"," Private industries","Manufacturing","Nondurable goods","Apparel and leather and allied products",2020,"3",261.00
+"                Paper products"," Private industries","Manufacturing","Nondurable goods","Paper products",2020,"0",.00
+"                Printing and related support activities"," Private industries","Manufacturing","Nondurable goods","Printing and related support activities",2020,"0",4.00
+"                Petroleum and coal products"," Private industries","Manufacturing","Nondurable goods","Petroleum and coal products",2020,"3",651.00
+"                Chemical products"," Private industries","Manufacturing","Nondurable goods","Chemical products",2020,"2",319.00
+"                Plastics and rubber products"," Private industries","Manufacturing","Nondurable goods","Plastics and rubber products",2020,"0",17.00
+"        Wholesale trade"," Private industries","Manufacturing","Wholesale trade",,2020,"43",4140.00
+"        Retail trade"," Private industries","Manufacturing","Retail trade",,2020,"329",12135.00
+"            Motor vehicle and parts dealers"," Private industries","Manufacturing","Retail trade","Motor vehicle and parts dealers",2020,"25",1122.00
+"            Food and beverage stores"," Private industries","Manufacturing","Retail trade","Food and beverage stores",2020,"52",1882.00
+"            General merchandise stores"," Private industries","Manufacturing","Retail trade","General merchandise stores",2020,"61",2237.00
+"            Other retail"," Private industries","Manufacturing","Retail trade","Other retail",2020,"191",6894.00
+"        Transportation and warehousing"," Private industries","Manufacturing","Transportation and warehousing",,2020,"219",22676.00
+"            Air transportation"," Private industries","Manufacturing","Transportation and warehousing","Air transportation",2020,"16",2012.00
+"            Rail transportation"," Private industries","Manufacturing","Transportation and warehousing","Rail transportation",2020,"1",133.00
+"            Water transportation"," Private industries","Manufacturing","Transportation and warehousing","Water transportation",2020,"45",5562.00
+"            Truck transportation"," Private industries","Manufacturing","Transportation and warehousing","Truck transportation",2020,"24",1844.00
+"            Transit and ground passenger transportation"," Private industries","Manufacturing","Transportation and warehousing","Transit and ground passenger transportation",2020,"8",452.00
+"            Pipeline transportation"," Private industries","Manufacturing","Transportation and warehousing","Pipeline transportation",2020,"4",599.00
+"            Other transportation and support activities"," Private industries","Manufacturing","Transportation and warehousing","Other transportation and support activities",2020,"84",10189.00
+"            Warehousing and storage"," Private industries","Manufacturing","Transportation and warehousing","Warehousing and storage",2020,"36",1886.00
+"        Information"," Private industries","Manufacturing","Information",,2020,"1",172.00
+"            Publishing industries, except internet (includes software)"," Private industries","Manufacturing","Information","Publishing industries, except internet (includes software)",2020,"1",51.00
+"            Motion picture and sound recording industries"," Private industries","Manufacturing","Information","Motion picture and sound recording industries",2020,"0",18.00
+"            Broadcasting and telecommunications"," Private industries","Manufacturing","Information","Broadcasting and telecommunications",2020,"0",20.00
+"            Data processing, internet publishing, and other information services"," Private industries","Manufacturing","Information","Data processing, internet publishing, and other information services",2020,"0",83.00
+"        Finance, insurance, real estate, rental, and leasing"," Private industries","Finance, insurance, real estate, rental, and leasing","Information",,2020,"30",2946.00
+"            Finance and insurance"," Private industries","Finance, insurance, real estate, rental, and leasing","Finance and insurance",,2020,"15",2085.00
+"                Federal Reserve banks, credit intermediation, and related activities"," Private industries","Finance, insurance, real estate, rental, and leasing","Finance and insurance","Federal Reserve banks, credit intermediation, and related activities",2020,"0",44.00
+"                Securities, commodity contracts, and investments"," Private industries","Finance, insurance, real estate, rental, and leasing","Finance and insurance","Securities, commodity contracts, and investments",2020,"0",.00
+"                Insurance carriers and related activities"," Private industries","Finance, insurance, real estate, rental, and leasing","Finance and insurance","Insurance carriers and related activities",2020,"14",2041.00
+"                Funds, trusts, and other financial vehicles"," Private industries","Finance, insurance, real estate, rental, and leasing","Finance and insurance","Funds, trusts, and other financial vehicles",2020,"0",.00
+"            Real estate and rental and leasing"," Private industries","Finance, insurance, real estate, rental, and leasing","Real estate and rental and leasing",,2020,"16",861.00
+"                Real estate"," Private industries","Finance, insurance, real estate, rental, and leasing","Real estate and rental and leasing","Real estate",2020,"9",536.00
+"                    Housing"," Private industries","Finance, insurance, real estate, rental, and leasing","Real estate and rental and leasing","Housing",2020,"9",536.00
+"                    Other real estate"," Private industries","Finance, insurance, real estate, rental, and leasing","Real estate and rental and leasing","Other real estate",2020,"0",1.00
+"                Rental and leasing services and lessors of intangible assets"," Private industries","Finance, insurance, real estate, rental, and leasing","Rental and leasing services and lessors of intangible assets",,2020,"6",324.00
+"        Professional and business services"," Private industries","Professional and business services","Rental and leasing services and lessors of intangible assets",,2020,"35",2401.00
+"            Professional, scientific, and technical services"," Private industries","Professional and business services","Professional, scientific, and technical services",,2020,"13",2186.00
+"                Legal services"," Private industries","Professional and business services","Professional, scientific, and technical services","Legal services",2020,"2",237.00
+"                Computer systems design and related services"," Private industries","Professional and business services","Professional, scientific, and technical services","Computer systems design and related services",2020,"1",136.00
+"                Miscellaneous professional, scientific, and technical services"," Private industries","Professional and business services","Professional, scientific, and technical services","Miscellaneous professional, scientific, and technical services",2020,"10",1813.00
+"            Management of companies and enterprises"," Private industries","Professional and business services","Management of companies and enterprises",,2020,"0",43.00
+"            Administrative and waste management services"," Private industries","Professional and business services","Administrative and waste management services",,2020,"23",172.00
+"                Administrative and support services"," Private industries","Professional and business services","Administrative and waste management services","Administrative and support services",2020,"23",170.00
+"                Waste management and remediation services"," Private industries","Professional and business services","Administrative and waste management services","Waste management and remediation services",2020,"0",2.00
+"        Educational services, health care, and social assistance"," Private industries","Educational services, health care, and social assistance","Administrative and waste management services",,2020,"22",1780.00
+"            Educational services"," Private industries","Educational services, health care, and social assistance","Administrative and waste management services",,2020,"20",1686.00
+"            Health care and social assistance"," Private industries","Educational services, health care, and social assistance","Health care and social assistance",,2020,"1",93.00
+"                Ambulatory health care services"," Private industries","Educational services, health care, and social assistance","Health care and social assistance","Ambulatory health care services",2020,"1",41.00
+"                Hospitals"," Private industries","Educational services, health care, and social assistance","Health care and social assistance","Hospitals",2020,"0",43.00
+"                Nursing and residential care facilities"," Private industries","Educational services, health care, and social assistance","Health care and social assistance","Nursing and residential care facilities",2020,"0",5.00
+"                Social assistance"," Private industries","Educational services, health care, and social assistance","Health care and social assistance","Social assistance",2020,"0",4.00
+"        Arts, entertainment, recreation, accommodation, and food services"," Private industries","Arts, entertainment, recreation, accommodation, and food services","Health care and social assistance",,2020,"513",15654.00
+"            Arts, entertainment, and recreation"," Private industries","Arts, entertainment, recreation, accommodation, and food services","Arts, entertainment, and recreation",,2020,"160",4631.00
+"                Performing arts, spectator sports, museums, and related activities"," Private industries","Arts, entertainment, recreation, accommodation, and food services","Arts, entertainment, and recreation","Performing arts, spectator sports, museums, and related activities",2020,"15",584.00
+"                Amusements, gambling, and recreation industries"," Private industries","Arts, entertainment, recreation, accommodation, and food services","Arts, entertainment, and recreation","Amusements, gambling, and recreation industries",2020,"145",4047.00
+"            Accommodation and food services"," Private industries","Arts, entertainment, recreation, accommodation, and food services","Accommodation and food services",,2020,"353",11024.00
+"                Accommodation"," Private industries","Arts, entertainment, recreation, accommodation, and food services","Accommodation and food services","Accommodation",2020,"124",4925.00
+"                Food services and drinking places"," Private industries","Arts, entertainment, recreation, accommodation, and food services","Accommodation and food services","Food services and drinking places",2020,"229",6099.00
+"        Other services, except government"," Private industries","Arts, entertainment, recreation, accommodation, and food services","Other services, except government",,2020,"24",1460.00
+"    Government","Government","Arts, entertainment, recreation, accommodation, and food services","Other services, except government",,2020,"704",89282.00
+"        Federal","Government","Arts, entertainment, recreation, accommodation, and food services","Other services, except government",,2020,"629",82363.00
+"            General government","Government","General government","Other services, except government",,2020,"629",82316.00
+"                National defense","Government","General government","National defense",,2020,"545",75109.00
+"                Nondefense","Government","General government","Nondefense",,2020,"84",7207.00
+"            Government enterprises","Government","General government","Government enterprises",,2020,"0",47.00
+"        State and local","Government","State and local","Government enterprises",,2020,"76",6919.00
+"            General government","Government","State and local","General government",,2020,"41",3448.00
+"            Government enterprises","Government","State and local","Government enterprises",,2020,"34",3471.00
+"All Industries",,,,,2019,"2492",179356.00
+"    Private industries",,,,,2019,"1812",98601.00
+"        Agriculture, forestry, fishing, and hunting",,,,,2019,"15",1030.00
+"            Farms",,,,,2019,"2",88.00
+"            Forestry, fishing, and related activities",,,,,2019,"13",942.00
+"        Mining",,,,,2019,"77",12517.00
+"            Oil and gas extraction",,,,,2019,"5",5083.00
+"            Mining, except oil and gas",,,,,2019,"4",279.00
+"            Support activities for mining",,,,,2019,"67",7155.00
+"        Utilities",,,,,2019,"9",1218.00
+"        Construction",,,,,2019,"94",2818.00
+"        Manufacturing",,,,,2019,"129",10468.00
+"            Durable goods",,,,,2019,"97",8349.00
+"                Wood products",,,,,2019,"0",1.00
+"                Nonmetallic mineral products",,,,,2019,"0",18.00
+"                Primary metals",,,,,2019,"0",1.00
+"                Fabricated metal products",,,,,2019,"1",42.00
+"                Machinery",,,,,2019,"11",1508.00
+"                Computer and electronic products",,,,,2019,"1",63.00
+"                Electrical equipment, appliances, and components",,,,,2019,"1",110.00
+"                Motor vehicles, bodies and trailers, and parts",,,,,2019,"1",52.00
+"                Other transportation equipment",,,,,2019,"79",6275.00
+"                Furniture and related products",,,,,2019,"0",6.00
+"                Miscellaneous manufacturing",,,,,2019,"3",271.00
+"            Nondurable goods",,,,,2019,"32",2120.00
+"                Food and beverage and tobacco products",,,,,2019,"22",702.00
+"                Textile mills and textile product mills",,,,,2019,"1",54.00
+"                Apparel and leather and allied products",,,,,2019,"4",260.00
+"                Paper products",,,,,2019,"0",.00
+"                Printing and related support activities",,,,,2019,"0",1.00
+"                Petroleum and coal products",,,,,2019,"3",847.00
+"                Chemical products",,,,,2019,"2",245.00
+"                Plastics and rubber products",,,,,2019,"0",11.00
+"        Wholesale trade",,,,,2019,"45",4207.00
+"        Retail trade",,,,,2019,"351",11643.00
+"            Motor vehicle and parts dealers",,,,,2019,"28",1038.00
+"            Food and beverage stores",,,,,2019,"49",1651.00
+"            General merchandise stores",,,,,2019,"63",2005.00
+"            Other retail",,,,,2019,"211",6949.00
+"        Transportation and warehousing",,,,,2019,"244",23739.00
+"            Air transportation",,,,,2019,"24",2936.00
+"            Rail transportation",,,,,2019,"2",204.00
+"            Water transportation",,,,,2019,"51",5892.00
+"            Truck transportation",,,,,2019,"27",1961.00
+"            Transit and ground passenger transportation",,,,,2019,"13",820.00
+"            Pipeline transportation",,,,,2019,"4",609.00
+"            Other transportation and support activities",,,,,2019,"95",9831.00
+"            Warehousing and storage",,,,,2019,"30",1487.00
+"        Information",,,,,2019,"1",165.00
+"            Publishing industries, except internet (includes software)",,,,,2019,"1",57.00
+"            Motion picture and sound recording industries",,,,,2019,"0",9.00
+"            Broadcasting and telecommunications",,,,,2019,"0",18.00
+"            Data processing, internet publishing, and other information services",,,,,2019,"0",81.00
+"        Finance, insurance, real estate, rental, and leasing",,,,,2019,"33",2956.00
+"            Finance and insurance",,,,,2019,"15",2025.00
+"                Federal Reserve banks, credit intermediation, and related activities",,,,,2019,"1",51.00
+"                Securities, commodity contracts, and investments",,,,,2019,"0",.00
+"                Insurance carriers and related activities",,,,,2019,"15",1974.00
+"                Funds, trusts, and other financial vehicles",,,,,2019,"0",.00
+"            Real estate and rental and leasing",,,,,2019,"18",931.00
+"                Real estate",,,,,2019,"10",518.00
+"                    Housing",,,,,2019,"10",517.00
+"                    Other real estate",,,,,2019,"0",1.00
+"                Rental and leasing services and lessors of intangible assets",,,,,2019,"8",413.00
+"        Professional and business services",,,,,2019,"47",4044.00
+"            Professional, scientific, and technical services",,,,,2019,"11",1517.00
+"                Legal services",,,,,2019,"2",258.00
+"                Computer systems design and related services",,,,,2019,"0",40.00
+"                Miscellaneous professional, scientific, and technical services",,,,,2019,"8",1220.00
+"            Management of companies and enterprises",,,,,2019,"0",44.00
+"            Administrative and waste management services",,,,,2019,"36",2483.00
+"                Administrative and support services",,,,,2019,"36",2482.00
+"                Waste management and remediation services",,,,,2019,"0",1.00
+"        Educational services, health care, and social assistance",,,,,2019,"22",1539.00
+"            Educational services",,,,,2019,"21",1453.00
+"            Health care and social assistance",,,,,2019,"1",86.00
+"                Ambulatory health care services",,,,,2019,"0",37.00
+"                Hospitals",,,,,2019,"0",41.00
+"                Nursing and residential care facilities",,,,,2019,"0",5.00
+"                Social assistance",,,,,2019,"0",3.00
+"        Arts, entertainment, recreation, accommodation, and food services",,,,,2019,"711",20476.00
+"            Arts, entertainment, and recreation",,,,,2019,"213",5789.00
+"                Performing arts, spectator sports, museums, and related activities",,,,,2019,"18",579.00
+"                Amusements, gambling, and recreation industries",,,,,2019,"195",5210.00
+"            Accommodation and food services",,,,,2019,"498",14687.00
+"                Accommodation",,,,,2019,"206",6729.00
+"                Food services and drinking places",,,,,2019,"292",7958.00
+"        Other services, except government",,,,,2019,"34",1782.00
+"    Government",,,,,2019,"679",80755.00
+"        Federal",,,,,2019,"599",73791.00
+"            General government",,,,,2019,"599",73743.00
+"                National defense",,,,,2019,"518",66937.00
+"                Nondefense",,,,,2019,"81",6805.00
+"            Government enterprises",,,,,2019,"0",48.00
+"        State and local",,,,,2019,"80",6964.00
+"            General government",,,,,2019,"43",3386.00
+"            Government enterprises",,,,,2019,"37",3579.00
+"All Industries",,,,,2018,"2418",169130.00
+"    Private industries",,,,,2018,"1759",92200.00
+"        Agriculture, forestry, fishing, and hunting",,,,,2018,"15",1034.00
+"            Farms",,,,,2018,"2",91.00
+"            Forestry, fishing, and related activities",,,,,2018,"13",943.00
+"        Mining",,,,,2018,"63",10785.00
+"            Oil and gas extraction",,,,,2018,"5",4686.00
+"            Mining, except oil and gas",,,,,2018,"5",292.00
+"            Support activities for mining",,,,,2018,"54",5807.00
+"        Utilities",,,,,2018,"10",1154.00
+"        Construction",,,,,2018,"81",2273.00
+"        Manufacturing",,,,,2018,"126",9802.00
+"            Durable goods",,,,,2018,"95",7857.00
+"                Wood products",,,,,2018,"0",1.00
+"                Nonmetallic mineral products",,,,,2018,"0",16.00
+"                Primary metals",,,,,2018,"0",1.00
+"                Fabricated metal products",,,,,2018,"1",36.00
+"                Machinery",,,,,2018,"10",1533.00
+"                Computer and electronic products",,,,,2018,"1",72.00
+"                Electrical equipment, appliances, and components",,,,,2018,"1",126.00
+"                Motor vehicles, bodies and trailers, and parts",,,,,2018,"1",44.00
+"                Other transportation equipment",,,,,2018,"79",5783.00
+"                Furniture and related products",,,,,2018,"0",3.00
+"                Miscellaneous manufacturing",,,,,2018,"3",242.00
+"            Nondurable goods",,,,,2018,"31",1945.00
+"                Food and beverage and tobacco products",,,,,2018,"22",637.00
+"                Textile mills and textile product mills",,,,,2018,"1",33.00
+"                Apparel and leather and allied products",,,,,2018,"4",270.00
+"                Paper products",,,,,2018,"0",.00
+"                Printing and related support activities",,,,,2018,"0",1.00
+"                Petroleum and coal products",,,,,2018,"3",795.00
+"                Chemical products",,,,,2018,"1",198.00
+"                Plastics and rubber products",,,,,2018,"0",11.00
+"        Wholesale trade",,,,,2018,"44",4031.00
+"        Retail trade",,,,,2018,"352",11062.00
+"            Motor vehicle and parts dealers",,,,,2018,"27",1003.00
+"            Food and beverage stores",,,,,2018,"48",1541.00
+"            General merchandise stores",,,,,2018,"64",1960.00
+"            Other retail",,,,,2018,"213",6559.00
+"        Transportation and warehousing",,,,,2018,"239",22935.00
+"            Air transportation",,,,,2018,"24",2894.00
+"            Rail transportation",,,,,2018,"2",207.00
+"            Water transportation",,,,,2018,"50",5702.00
+"            Truck transportation",,,,,2018,"26",1825.00
+"            Transit and ground passenger transportation",,,,,2018,"13",703.00
+"            Pipeline transportation",,,,,2018,"4",598.00
+"            Other transportation and support activities",,,,,2018,"93",9610.00
+"            Warehousing and storage",,,,,2018,"27",1396.00
+"        Information",,,,,2018,"1",150.00
+"            Publishing industries, except internet (includes software)",,,,,2018,"1",60.00
+"            Motion picture and sound recording industries",,,,,2018,"0",7.00
+"            Broadcasting and telecommunications",,,,,2018,"0",16.00
+"            Data processing, internet publishing, and other information services",,,,,2018,"0",67.00
+"        Finance, insurance, real estate, rental, and leasing",,,,,2018,"31",2796.00
+"            Finance and insurance",,,,,2018,"14",1932.00
+"                Federal Reserve banks, credit intermediation, and related activities",,,,,2018,"0",47.00
+"                Securities, commodity contracts, and investments",,,,,2018,"0",.00
+"                Insurance carriers and related activities",,,,,2018,"14",1885.00
+"                Funds, trusts, and other financial vehicles",,,,,2018,"0",.00
+"            Real estate and rental and leasing",,,,,2018,"17",864.00
+"                Real estate",,,,,2018,"9",487.00
+"                    Housing",,,,,2018,"9",486.00
+"                    Other real estate",,,,,2018,"0",1.00
+"                Rental and leasing services and lessors of intangible assets",,,,,2018,"8",378.00
+"        Professional and business services",,,,,2018,"45",4078.00
+"            Professional, scientific, and technical services",,,,,2018,"10",1369.00
+"                Legal services",,,,,2018,"2",248.00
+"                Computer systems design and related services",,,,,2018,"0",38.00
+"                Miscellaneous professional, scientific, and technical services",,,,,2018,"7",1083.00
+"            Management of companies and enterprises",,,,,2018,"0",35.00
+"            Administrative and waste management services",,,,,2018,"35",2674.00
+"                Administrative and support services",,,,,2018,"35",2673.00
+"                Waste management and remediation services",,,,,2018,"0",1.00
+"        Educational services, health care, and social assistance",,,,,2018,"21",1413.00
+"            Educational services",,,,,2018,"20",1330.00
+"            Health care and social assistance",,,,,2018,"1",83.00
+"                Ambulatory health care services",,,,,2018,"0",34.00
+"                Hospitals",,,,,2018,"0",41.00
+"                Nursing and residential care facilities",,,,,2018,"0",5.00
+"                Social assistance",,,,,2018,"0",2.00
+"        Arts, entertainment, recreation, accommodation, and food services",,,,,2018,"697",19031.00
+"            Arts, entertainment, and recreation",,,,,2018,"209",5501.00
+"                Performing arts, spectator sports, museums, and related activities",,,,,2018,"18",603.00
+"                Amusements, gambling, and recreation industries",,,,,2018,"192",4898.00
+"            Accommodation and food services",,,,,2018,"488",13530.00
+"                Accommodation",,,,,2018,"200",5996.00
+"                Food services and drinking places",,,,,2018,"288",7534.00
+"        Other services, except government",,,,,2018,"33",1656.00
+"    Government",,,,,2018,"659",76930.00
+"        Federal",,,,,2018,"584",70572.00
+"            General government",,,,,2018,"584",70521.00
+"                National defense",,,,,2018,"504",63916.00
+"                Nondefense",,,,,2018,"80",6605.00
+"            Government enterprises",,,,,2018,"0",51.00
+"        State and local",,,,,2018,"75",6358.00
+"            General government",,,,,2018,"41",3153.00
+"            Government enterprises",,,,,2018,"34",3205.00
+"All Industries",,,,,2017,"2413",163683.00
+"    Private industries",,,,,2017,"1739",87967.00
+"        Agriculture, forestry, fishing, and hunting",,,,,2017,"15",950.00
+"            Farms",,,,,2017,"2",99.00
+"            Forestry, fishing, and related activities",,,,,2017,"13",852.00
+"        Mining",,,,,2017,"67",10978.00
+"            Oil and gas extraction",,,,,2017,"5",4810.00
+"            Mining, except oil and gas",,,,,2017,"5",277.00
+"            Support activities for mining",,,,,2017,"57",5891.00
+"        Utilities",,,,,2017,"10",1151.00
+"        Construction",,,,,2017,"89",2250.00
+"        Manufacturing",,,,,2017,"124",8975.00
+"            Durable goods",,,,,2017,"91",7026.00
+"                Wood products",,,,,2017,"0",1.00
+"                Nonmetallic mineral products",,,,,2017,"0",16.00
+"                Primary metals",,,,,2017,"0",.00
+"                Fabricated metal products",,,,,2017,"1",36.00
+"                Machinery",,,,,2017,"10",1224.00
+"                Computer and electronic products",,,,,2017,"1",74.00
+"                Electrical equipment, appliances, and components",,,,,2017,"1",110.00
+"                Motor vehicles, bodies and trailers, and parts",,,,,2017,"1",40.00
+"                Other transportation equipment",,,,,2017,"76",5280.00
+"                Furniture and related products",,,,,2017,"0",4.00
+"                Miscellaneous manufacturing",,,,,2017,"3",241.00
+"            Nondurable goods",,,,,2017,"33",1949.00
+"                Food and beverage and tobacco products",,,,,2017,"22",616.00
+"                Textile mills and textile product mills",,,,,2017,"1",40.00
+"                Apparel and leather and allied products",,,,,2017,"5",298.00
+"                Paper products",,,,,2017,"0",.00
+"                Printing and related support activities",,,,,2017,"0",1.00
+"                Petroleum and coal products",,,,,2017,"3",803.00
+"                Chemical products",,,,,2017,"1",177.00
+"                Plastics and rubber products",,,,,2017,"0",13.00
+"        Wholesale trade",,,,,2017,"44",3919.00
+"        Retail trade",,,,,2017,"352",10737.00
+"            Motor vehicle and parts dealers",,,,,2017,"27",1103.00
+"            Food and beverage stores",,,,,2017,"49",1504.00
+"            General merchandise stores",,,,,2017,"64",1899.00
+"            Other retail",,,,,2017,"212",6230.00
+"        Transportation and warehousing",,,,,2017,"231",21221.00
+"            Air transportation",,,,,2017,"21",2401.00
+"            Rail transportation",,,,,2017,"1",176.00
+"            Water transportation",,,,,2017,"50",5491.00
+"            Truck transportation",,,,,2017,"25",1694.00
+"            Transit and ground passenger transportation",,,,,2017,"13",625.00
+"            Pipeline transportation",,,,,2017,"4",598.00
+"            Other transportation and support activities",,,,,2017,"93",9053.00
+"            Warehousing and storage",,,,,2017,"24",1181.00
+"        Information",,,,,2017,"1",133.00
+"            Publishing industries, except internet (includes software)",,,,,2017,"1",56.00
+"            Motion picture and sound recording industries",,,,,2017,"0",7.00
+"            Broadcasting and telecommunications",,,,,2017,"0",16.00
+"            Data processing, internet publishing, and other information services",,,,,2017,"0",55.00
+"        Finance, insurance, real estate, rental, and leasing",,,,,2017,"33",2885.00
+"            Finance and insurance",,,,,2017,"16",2039.00
+"                Federal Reserve banks, credit intermediation, and related activities",,,,,2017,"1",50.00
+"                Securities, commodity contracts, and investments",,,,,2017,"0",.00
+"                Insurance carriers and related activities",,,,,2017,"15",1989.00
+"                Funds, trusts, and other financial vehicles",,,,,2017,"0",.00
+"            Real estate and rental and leasing",,,,,2017,"17",846.00
+"                Real estate",,,,,2017,"9",463.00
+"                    Housing",,,,,2017,"9",462.00
+"                    Other real estate",,,,,2017,"0",1.00
+"                Rental and leasing services and lessors of intangible assets",,,,,2017,"8",383.00
+"        Professional and business services",,,,,2017,"44",3595.00
+"            Professional, scientific, and technical services",,,,,2017,"9",1118.00
+"                Legal services",,,,,2017,"2",239.00
+"                Computer systems design and related services",,,,,2017,"0",48.00
+"                Miscellaneous professional, scientific, and technical services",,,,,2017,"6",831.00
+"            Management of companies and enterprises",,,,,2017,"0",32.00
+"            Administrative and waste management services",,,,,2017,"35",2445.00
+"                Administrative and support services",,,,,2017,"35",2444.00
+"                Waste management and remediation services",,,,,2017,"0",1.00
+"        Educational services, health care, and social assistance",,,,,2017,"22",1483.00
+"            Educational services",,,,,2017,"21",1403.00
+"            Health care and social assistance",,,,,2017,"1",81.00
+"                Ambulatory health care services",,,,,2017,"0",31.00
+"                Hospitals",,,,,2017,"1",42.00
+"                Nursing and residential care facilities",,,,,2017,"0",5.00
+"                Social assistance",,,,,2017,"0",2.00
+"        Arts, entertainment, recreation, accommodation, and food services",,,,,2017,"676",18069.00
+"            Arts, entertainment, and recreation",,,,,2017,"195",5085.00
+"                Performing arts, spectator sports, museums, and related activities",,,,,2017,"17",534.00
+"                Amusements, gambling, and recreation industries",,,,,2017,"179",4551.00
+"            Accommodation and food services",,,,,2017,"480",12984.00
+"                Accommodation",,,,,2017,"198",5879.00
+"                Food services and drinking places",,,,,2017,"283",7106.00
+"        Other services, except government",,,,,2017,"32",1621.00
+"    Government",,,,,2017,"674",75716.00
+"        Federal",,,,,2017,"599",69477.00
+"            General government",,,,,2017,"599",69427.00
+"                National defense",,,,,2017,"518",63080.00
+"                Nondefense",,,,,2017,"80",6347.00
+"            Government enterprises",,,,,2017,"0",50.00
+"        State and local",,,,,2017,"76",6239.00
+"            General government",,,,,2017,"42",3140.00
+"            Government enterprises",,,,,2017,"34",3099.00
+"All Industries",,,,,2016,"2455",164393.00
+"    Private industries",,,,,2016,"1770",88986.00
+"        Agriculture, forestry, fishing, and hunting",,,,,2016,"15",972.00
+"            Farms",,,,,2016,"2",99.00
+"            Forestry, fishing, and related activities",,,,,2016,"13",874.00
+"        Mining",,,,,2016,"110",13508.00
+"            Oil and gas extraction",,,,,2016,"32",6252.00
+"            Mining, except oil and gas",,,,,2016,"4",257.00
+"            Support activities for mining",,,,,2016,"73",6999.00
+"        Utilities",,,,,2016,"10",1149.00
+"        Construction",,,,,2016,"81",2195.00
+"        Manufacturing",,,,,2016,"127",9909.00
+"            Durable goods",,,,,2016,"94",8002.00
+"                Wood products",,,,,2016,"0",1.00
+"                Nonmetallic mineral products",,,,,2016,"0",15.00
+"                Primary metals",,,,,2016,"0",.00
+"                Fabricated metal products",,,,,2016,"1",38.00
+"                Machinery",,,,,2016,"12",1367.00
+"                Computer and electronic products",,,,,2016,"1",62.00
+"                Electrical equipment, appliances, and components",,,,,2016,"1",102.00
+"                Motor vehicles, bodies and trailers, and parts",,,,,2016,"1",51.00
+"                Other transportation equipment",,,,,2016,"75",6129.00
+"                Furniture and related products",,,,,2016,"0",5.00
+"                Miscellaneous manufacturing",,,,,2016,"3",232.00
+"            Nondurable goods",,,,,2016,"33",1907.00
+"                Food and beverage and tobacco products",,,,,2016,"23",660.00
+"                Textile mills and textile product mills",,,,,2016,"1",44.00
+"                Apparel and leather and allied products",,,,,2016,"5",276.00
+"                Paper products",,,,,2016,"0",.00
+"                Printing and related support activities",,,,,2016,"0",1.00
+"                Petroleum and coal products",,,,,2016,"3",764.00
+"                Chemical products",,,,,2016,"1",148.00
+"                Plastics and rubber products",,,,,2016,"0",14.00
+"        Wholesale trade",,,,,2016,"44",3852.00
+"        Retail trade",,,,,2016,"345",10143.00
+"            Motor vehicle and parts dealers",,,,,2016,"26",1047.00
+"            Food and beverage stores",,,,,2016,"47",1417.00
+"            General merchandise stores",,,,,2016,"66",1792.00
+"            Other retail",,,,,2016,"205",5887.00
+"        Transportation and warehousing",,,,,2016,"230",20228.00
+"            Air transportation",,,,,2016,"24",2705.00
+"            Rail transportation",,,,,2016,"1",171.00
+"            Water transportation",,,,,2016,"49",5247.00
+"            Truck transportation",,,,,2016,"26",1676.00
+"            Transit and ground passenger transportation",,,,,2016,"13",597.00
+"            Pipeline transportation",,,,,2016,"4",579.00
+"            Other transportation and support activities",,,,,2016,"92",8282.00
+"            Warehousing and storage",,,,,2016,"20",972.00
+"        Information",,,,,2016,"1",131.00
+"            Publishing industries, except internet (includes software)",,,,,2016,"1",55.00
+"            Motion picture and sound recording industries",,,,,2016,"0",7.00
+"            Broadcasting and telecommunications",,,,,2016,"0",17.00
+"            Data processing, internet publishing, and other information services",,,,,2016,"0",52.00
+"        Finance, insurance, real estate, rental, and leasing",,,,,2016,"33",2827.00
+"            Finance and insurance",,,,,2016,"16",2012.00
+"                Federal Reserve banks, credit intermediation, and related activities",,,,,2016,"1",47.00
+"                Securities, commodity contracts, and investments",,,,,2016,"0",.00
+"                Insurance carriers and related activities",,,,,2016,"16",1965.00
+"                Funds, trusts, and other financial vehicles",,,,,2016,"0",.00
+"            Real estate and rental and leasing",,,,,2016,"17",815.00
+"                Real estate",,,,,2016,"9",439.00
+"                    Housing",,,,,2016,"9",438.00
+"                    Other real estate",,,,,2016,"0",1.00
+"                Rental and leasing services and lessors of intangible assets",,,,,2016,"8",376.00
+"        Professional and business services",,,,,2016,"45",3347.00
+"            Professional, scientific, and technical services",,,,,2016,"10",1255.00
+"                Legal services",,,,,2016,"2",227.00
+"                Computer systems design and related services",,,,,2016,"0",21.00
+"                Miscellaneous professional, scientific, and technical services",,,,,2016,"8",1008.00
+"            Management of companies and enterprises",,,,,2016,"0",36.00
+"            Administrative and waste management services",,,,,2016,"35",2056.00
+"                Administrative and support services",,,,,2016,"35",2055.00
+"                Waste management and remediation services",,,,,2016,"0",1.00
+"        Educational services, health care, and social assistance",,,,,2016,"22",1460.00
+"            Educational services",,,,,2016,"21",1386.00
+"            Health care and social assistance",,,,,2016,"1",74.00
+"                Ambulatory health care services",,,,,2016,"0",27.00
+"                Hospitals",,,,,2016,"1",40.00
+"                Nursing and residential care facilities",,,,,2016,"0",5.00
+"                Social assistance",,,,,2016,"0",2.00
+"        Arts, entertainment, recreation, accommodation, and food services",,,,,2016,"674",17735.00
+"            Arts, entertainment, and recreation",,,,,2016,"202",5255.00
+"                Performing arts, spectator sports, museums, and related activities",,,,,2016,"17",548.00
+"                Amusements, gambling, and recreation industries",,,,,2016,"185",4707.00
+"            Accommodation and food services",,,,,2016,"472",12480.00
+"                Accommodation",,,,,2016,"196",5766.00
+"                Food services and drinking places",,,,,2016,"276",6714.00
+"        Other services, except government",,,,,2016,"32",1531.00
+"    Government",,,,,2016,"686",75407.00
+"        Federal",,,,,2016,"610",69295.00
+"            General government",,,,,2016,"610",69248.00
+"                National defense",,,,,2016,"533",63344.00
+"                Nondefense",,,,,2016,"77",5905.00
+"            Government enterprises",,,,,2016,"0",46.00
+"        State and local",,,,,2016,"76",6112.00
+"            General government",,,,,2016,"41",3031.00
+"            Government enterprises",,,,,2016,"35",3081.00
+"All Industries",,,,,2015,"2442",164946.00
+"    Private industries",,,,,2015,"1757",91430.00
+"        Agriculture, forestry, fishing, and hunting",,,,,2015,"15",817.00
+"            Farms",,,,,2015,"2",84.00
+"            Forestry, fishing, and related activities",,,,,2015,"13",732.00
+"        Mining",,,,,2015,"140",16901.00
+"            Oil and gas extraction",,,,,2015,"34",6890.00
+"            Mining, except oil and gas",,,,,2015,"4",241.00
+"            Support activities for mining",,,,,2015,"102",9770.00
+"        Utilities",,,,,2015,"11",1082.00
+"        Construction",,,,,2015,"65",1787.00
+"        Manufacturing",,,,,2015,"138",11422.00
+"            Durable goods",,,,,2015,"104",9435.00
+"                Wood products",,,,,2015,"0",1.00
+"                Nonmetallic mineral products",,,,,2015,"0",14.00
+"                Primary metals",,,,,2015,"0",1.00
+"                Fabricated metal products",,,,,2015,"1",63.00
+"                Machinery",,,,,2015,"18",1969.00
+"                Computer and electronic products",,,,,2015,"1",78.00
+"                Electrical equipment, appliances, and components",,,,,2015,"1",114.00
+"                Motor vehicles, bodies and trailers, and parts",,,,,2015,"1",48.00
+"                Other transportation equipment",,,,,2015,"80",6910.00
+"                Furniture and related products",,,,,2015,"0",7.00
+"                Miscellaneous manufacturing",,,,,2015,"3",230.00
+"            Nondurable goods",,,,,2015,"33",1987.00
+"                Food and beverage and tobacco products",,,,,2015,"22",830.00
+"                Textile mills and textile product mills",,,,,2015,"1",42.00
+"                Apparel and leather and allied products",,,,,2015,"5",243.00
+"                Paper products",,,,,2015,"0",.00
+"                Printing and related support activities",,,,,2015,"0",1.00
+"                Petroleum and coal products",,,,,2015,"4",716.00
+"                Chemical products",,,,,2015,"1",142.00
+"                Plastics and rubber products",,,,,2015,"0",14.00
+"        Wholesale trade",,,,,2015,"46",4096.00
+"        Retail trade",,,,,2015,"334",9792.00
+"            Motor vehicle and parts dealers",,,,,2015,"25",963.00
+"            Food and beverage stores",,,,,2015,"46",1364.00
+"            General merchandise stores",,,,,2015,"65",1815.00
+"            Other retail",,,,,2015,"199",5649.00
+"        Transportation and warehousing",,,,,2015,"225",19610.00
+"            Air transportation",,,,,2015,"18",1931.00
+"            Rail transportation",,,,,2015,"2",269.00
+"            Water transportation",,,,,2015,"50",5333.00
+"            Truck transportation",,,,,2015,"26",1655.00
+"            Transit and ground passenger transportation",,,,,2015,"12",516.00
+"            Pipeline transportation",,,,,2015,"4",569.00
+"            Other transportation and support activities",,,,,2015,"94",8556.00
+"            Warehousing and storage",,,,,2015,"18",781.00
+"        Information",,,,,2015,"1",117.00
+"            Publishing industries, except internet (includes software)",,,,,2015,"1",50.00
+"            Motion picture and sound recording industries",,,,,2015,"0",6.00
+"            Broadcasting and telecommunications",,,,,2015,"0",18.00
+"            Data processing, internet publishing, and other information services",,,,,2015,"0",43.00
+"        Finance, insurance, real estate, rental, and leasing",,,,,2015,"33",2808.00
+"            Finance and insurance",,,,,2015,"17",2029.00
+"                Federal Reserve banks, credit intermediation, and related activities",,,,,2015,"1",46.00
+"                Securities, commodity contracts, and investments",,,,,2015,"0",.00
+"                Insurance carriers and related activities",,,,,2015,"16",1983.00
+"                Funds, trusts, and other financial vehicles",,,,,2015,"0",.00
+"            Real estate and rental and leasing",,,,,2015,"17",779.00
+"                Real estate",,,,,2015,"9",429.00
+"                    Housing",,,,,2015,"9",428.00
+"                    Other real estate",,,,,2015,"0",1.00
+"                Rental and leasing services and lessors of intangible assets",,,,,2015,"7",350.00
+"        Professional and business services",,,,,2015,"42",3281.00
+"            Professional, scientific, and technical services",,,,,2015,"10",1296.00
+"                Legal services",,,,,2015,"2",222.00
+"                Computer systems design and related services",,,,,2015,"0",31.00
+"                Miscellaneous professional, scientific, and technical services",,,,,2015,"8",1042.00
+"            Management of companies and enterprises",,,,,2015,"0",22.00
+"            Administrative and waste management services",,,,,2015,"32",1963.00
+"                Administrative and support services",,,,,2015,"32",1962.00
+"                Waste management and remediation services",,,,,2015,"0",1.00
+"        Educational services, health care, and social assistance",,,,,2015,"23",1441.00
+"            Educational services",,,,,2015,"22",1378.00
+"            Health care and social assistance",,,,,2015,"1",63.00
+"                Ambulatory health care services",,,,,2015,"0",20.00
+"                Hospitals",,,,,2015,"0",36.00
+"                Nursing and residential care facilities",,,,,2015,"0",5.00
+"                Social assistance",,,,,2015,"0",2.00
+"        Arts, entertainment, recreation, accommodation, and food services",,,,,2015,"653",16844.00
+"            Arts, entertainment, and recreation",,,,,2015,"193",4923.00
+"                Performing arts, spectator sports, museums, and related activities",,,,,2015,"17",501.00
+"                Amusements, gambling, and recreation industries",,,,,2015,"177",4422.00
+"            Accommodation and food services",,,,,2015,"459",11921.00
+"                Accommodation",,,,,2015,"194",5720.00
+"                Food services and drinking places",,,,,2015,"265",6201.00
+"        Other services, except government",,,,,2015,"32",1434.00
+"    Government",,,,,2015,"685",73516.00
+"        Federal",,,,,2015,"613",67815.00
+"            General government",,,,,2015,"613",67769.00
+"                National defense",,,,,2015,"538",62150.00
+"                Nondefense",,,,,2015,"75",5619.00
+"            Government enterprises",,,,,2015,"0",46.00
+"        State and local",,,,,2015,"72",5700.00
+"            General government",,,,,2015,"41",2946.00
+"            Government enterprises",,,,,2015,"31",2755.00
+"All Industries",,,,,2014,"2409",160349.00
+"    Private industries",,,,,2014,"1718",87893.00
+"        Agriculture, forestry, fishing, and hunting",,,,,2014,"14",817.00
+"            Farms",,,,,2014,"2",82.00
+"            Forestry, fishing, and related activities",,,,,2014,"12",735.00
+"        Mining",,,,,2014,"148",17628.00
+"            Oil and gas extraction",,,,,2014,"34",6865.00
+"            Mining, except oil and gas",,,,,2014,"4",235.00
+"            Support activities for mining",,,,,2014,"110",10528.00
+"        Utilities",,,,,2014,"10",1001.00
+"        Construction",,,,,2014,"60",1829.00
+"        Manufacturing",,,,,2014,"133",10387.00
+"            Durable goods",,,,,2014,"99",8480.00
+"                Wood products",,,,,2014,"0",1.00
+"                Nonmetallic mineral products",,,,,2014,"0",13.00
+"                Primary metals",,,,,2014,"0",1.00
+"                Fabricated metal products",,,,,2014,"1",67.00
+"                Machinery",,,,,2014,"19",2047.00
+"                Computer and electronic products",,,,,2014,"1",56.00
+"                Electrical equipment, appliances, and components",,,,,2014,"1",137.00
+"                Motor vehicles, bodies and trailers, and parts",,,,,2014,"1",44.00
+"                Other transportation equipment",,,,,2014,"73",5903.00
+"                Furniture and related products",,,,,2014,"0",7.00
+"                Miscellaneous manufacturing",,,,,2014,"3",204.00
+"            Nondurable goods",,,,,2014,"34",1907.00
+"                Food and beverage and tobacco products",,,,,2014,"23",794.00
+"                Textile mills and textile product mills",,,,,2014,"1",45.00
+"                Apparel and leather and allied products",,,,,2014,"5",245.00
+"                Paper products",,,,,2014,"0",.00
+"                Printing and related support activities",,,,,2014,"0",1.00
+"                Petroleum and coal products",,,,,2014,"4",685.00
+"                Chemical products",,,,,2014,"1",123.00
+"                Plastics and rubber products",,,,,2014,"0",14.00
+"        Wholesale trade",,,,,2014,"44",3837.00
+"        Retail trade",,,,,2014,"322",9121.00
+"            Motor vehicle and parts dealers",,,,,2014,"24",892.00
+"            Food and beverage stores",,,,,2014,"44",1286.00
+"            General merchandise stores",,,,,2014,"63",1724.00
+"            Other retail",,,,,2014,"190",5219.00
+"        Transportation and warehousing",,,,,2014,"219",18241.00
+"            Air transportation",,,,,2014,"18",1810.00
+"            Rail transportation",,,,,2014,"3",289.00
+"            Water transportation",,,,,2014,"50",5129.00
+"            Truck transportation",,,,,2014,"24",1481.00
+"            Transit and ground passenger transportation",,,,,2014,"12",485.00
+"            Pipeline transportation",,,,,2014,"4",471.00
+"            Other transportation and support activities",,,,,2014,"92",7884.00
+"            Warehousing and storage",,,,,2014,"16",692.00
+"        Information",,,,,2014,"1",107.00
+"            Publishing industries, except internet (includes software)",,,,,2014,"1",45.00
+"            Motion picture and sound recording industries",,,,,2014,"0",5.00
+"            Broadcasting and telecommunications",,,,,2014,"0",19.00
+"            Data processing, internet publishing, and other information services",,,,,2014,"0",38.00
+"        Finance, insurance, real estate, rental, and leasing",,,,,2014,"32",2555.00
+"            Finance and insurance",,,,,2014,"17",1937.00
+"                Federal Reserve banks, credit intermediation, and related activities",,,,,2014,"1",41.00
+"                Securities, commodity contracts, and investments",,,,,2014,"0",.00
+"                Insurance carriers and related activities",,,,,2014,"16",1896.00
+"                Funds, trusts, and other financial vehicles",,,,,2014,"0",.00
+"            Real estate and rental and leasing",,,,,2014,"16",618.00
+"                Real estate",,,,,2014,"9",321.00
+"                    Housing",,,,,2014,"9",321.00
+"                    Other real estate",,,,,2014,"0",1.00
+"                Rental and leasing services and lessors of intangible assets",,,,,2014,"7",296.00
+"        Professional and business services",,,,,2014,"42",3074.00
+"            Professional, scientific, and technical services",,,,,2014,"10",1276.00
+"                Legal services",,,,,2014,"2",217.00
+"                Computer systems design and related services",,,,,2014,"0",24.00
+"                Miscellaneous professional, scientific, and technical services",,,,,2014,"8",1035.00
+"            Management of companies and enterprises",,,,,2014,"0",22.00
+"            Administrative and waste management services",,,,,2014,"31",1775.00
+"                Administrative and support services",,,,,2014,"31",1774.00
+"                Waste management and remediation services",,,,,2014,"0",1.00
+"        Educational services, health care, and social assistance",,,,,2014,"21",1333.00
+"            Educational services",,,,,2014,"20",1277.00
+"            Health care and social assistance",,,,,2014,"1",56.00
+"                Ambulatory health care services",,,,,2014,"0",17.00
+"                Hospitals",,,,,2014,"0",33.00
+"                Nursing and residential care facilities",,,,,2014,"0",4.00
+"                Social assistance",,,,,2014,"0",2.00
+"        Arts, entertainment, recreation, accommodation, and food services",,,,,2014,"639",16639.00
+"            Arts, entertainment, and recreation",,,,,2014,"193",5116.00
+"                Performing arts, spectator sports, museums, and related activities",,,,,2014,"17",598.00
+"                Amusements, gambling, and recreation industries",,,,,2014,"176",4518.00
+"            Accommodation and food services",,,,,2014,"446",11523.00
+"                Accommodation",,,,,2014,"189",5808.00
+"                Food services and drinking places",,,,,2014,"257",5715.00
+"        Other services, except government",,,,,2014,"33",1323.00
+"    Government",,,,,2014,"692",72455.00
+"        Federal",,,,,2014,"622",67086.00
+"            General government",,,,,2014,"620",67037.00
+"                National defense",,,,,2014,"542",61360.00
+"                Nondefense",,,,,2014,"77",5677.00
+"            Government enterprises",,,,,2014,"2",49.00
+"        State and local",,,,,2014,"70",5369.00
+"            General government",,,,,2014,"40",2795.00
+"            Government enterprises",,,,,2014,"30",2574.00
