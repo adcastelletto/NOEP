@@ -1,0 +1,98 @@
+InudstrySummary,Type,Sector,SubSector,Industry
+All Industries,All Industries,,,
+    Private industries, Private industries,,,
+"        Agriculture, forestry, fishing, and hunting", Private industries,"Agriculture, forestry, fishing, and hunting",,
+            Farms, Private industries,"Agriculture, forestry, fishing, and hunting",Farms,
+"            Forestry, fishing, and related activities", Private industries,"Agriculture, forestry, fishing, and hunting","Forestry, fishing, and related activities",
+        Mining, Private industries,Mining,"Forestry, fishing, and related activities",
+            Oil and gas extraction, Private industries,Mining,Oil and gas extraction,
+"            Mining, except oil and gas", Private industries,Mining,"Mining, except oil and gas",
+            Support activities for mining, Private industries,Mining,Support activities for mining,
+        Utilities, Private industries,Utilities,Support activities for mining,
+        Construction, Private industries,Construction,Support activities for mining,
+        Manufacturing, Private industries,Manufacturing,Support activities for mining,
+            Durable goods, Private industries,Manufacturing,Durable goods,
+                Wood products, Private industries,Manufacturing,Durable goods,Wood products
+                Nonmetallic mineral products, Private industries,Manufacturing,Durable goods,Nonmetallic mineral products
+                Primary metals, Private industries,Manufacturing,Durable goods,Primary metals
+                Fabricated metal products, Private industries,Manufacturing,Durable goods,Fabricated metal products
+                Machinery, Private industries,Manufacturing,Durable goods,Machinery
+                Computer and electronic products, Private industries,Manufacturing,Durable goods,Computer and electronic products
+"                Electrical equipment, appliances, and components", Private industries,Manufacturing,Durable goods,"Electrical equipment, appliances, and components"
+"                Motor vehicles, bodies and trailers, and parts", Private industries,Manufacturing,Durable goods,"Motor vehicles, bodies and trailers, and parts"
+                Other transportation equipment, Private industries,Manufacturing,Durable goods,Other transportation equipment
+                Furniture and related products, Private industries,Manufacturing,Durable goods,Furniture and related products
+                Miscellaneous manufacturing, Private industries,Manufacturing,Durable goods,Miscellaneous manufacturing
+            Nondurable goods, Private industries,Manufacturing,Nondurable goods,
+                Food and beverage and tobacco products, Private industries,Manufacturing,Nondurable goods,Food and beverage and tobacco products
+                Textile mills and textile product mills, Private industries,Manufacturing,Nondurable goods,Textile mills and textile product mills
+                Apparel and leather and allied products, Private industries,Manufacturing,Nondurable goods,Apparel and leather and allied products
+                Paper products, Private industries,Manufacturing,Nondurable goods,Paper products
+                Printing and related support activities, Private industries,Manufacturing,Nondurable goods,Printing and related support activities
+                Petroleum and coal products, Private industries,Manufacturing,Nondurable goods,Petroleum and coal products
+                Chemical products, Private industries,Manufacturing,Nondurable goods,Chemical products
+                Plastics and rubber products, Private industries,Manufacturing,Nondurable goods,Plastics and rubber products
+        Wholesale trade, Private industries,Manufacturing,Wholesale trade,
+        Retail trade, Private industries,Manufacturing,Retail trade,
+            Motor vehicle and parts dealers, Private industries,Manufacturing,Retail trade,Motor vehicle and parts dealers
+            Food and beverage stores, Private industries,Manufacturing,Retail trade,Food and beverage stores
+            General merchandise stores, Private industries,Manufacturing,Retail trade,General merchandise stores
+            Other retail, Private industries,Manufacturing,Retail trade,Other retail
+        Transportation and warehousing, Private industries,Manufacturing,Transportation and warehousing,
+            Air transportation, Private industries,Manufacturing,Transportation and warehousing,Air transportation
+            Rail transportation, Private industries,Manufacturing,Transportation and warehousing,Rail transportation
+            Water transportation, Private industries,Manufacturing,Transportation and warehousing,Water transportation
+            Truck transportation, Private industries,Manufacturing,Transportation and warehousing,Truck transportation
+            Transit and ground passenger transportation, Private industries,Manufacturing,Transportation and warehousing,Transit and ground passenger transportation
+            Pipeline transportation, Private industries,Manufacturing,Transportation and warehousing,Pipeline transportation
+            Other transportation and support activities, Private industries,Manufacturing,Transportation and warehousing,Other transportation and support activities
+            Warehousing and storage, Private industries,Manufacturing,Transportation and warehousing,Warehousing and storage
+        Information, Private industries,Manufacturing,Information,
+"            Publishing industries, except internet (includes software)", Private industries,Manufacturing,Information,"Publishing industries, except internet (includes software)"
+            Motion picture and sound recording industries, Private industries,Manufacturing,Information,Motion picture and sound recording industries
+            Broadcasting and telecommunications, Private industries,Manufacturing,Information,Broadcasting and telecommunications
+"            Data processing, internet publishing, and other information services", Private industries,Manufacturing,Information,"Data processing, internet publishing, and other information services"
+"        Finance, insurance, real estate, rental, and leasing", Private industries,"Finance, insurance, real estate, rental, and leasing",Information,
+            Finance and insurance, Private industries,"Finance, insurance, real estate, rental, and leasing",Finance and insurance,
+"                Federal Reserve banks, credit intermediation, and related activities", Private industries,"Finance, insurance, real estate, rental, and leasing",Finance and insurance,"Federal Reserve banks, credit intermediation, and related activities"
+"                Securities, commodity contracts, and investments", Private industries,"Finance, insurance, real estate, rental, and leasing",Finance and insurance,"Securities, commodity contracts, and investments"
+                Insurance carriers and related activities, Private industries,"Finance, insurance, real estate, rental, and leasing",Finance and insurance,Insurance carriers and related activities
+"                Funds, trusts, and other financial vehicles", Private industries,"Finance, insurance, real estate, rental, and leasing",Finance and insurance,"Funds, trusts, and other financial vehicles"
+            Real estate and rental and leasing, Private industries,"Finance, insurance, real estate, rental, and leasing",Real estate and rental and leasing,
+                Real estate, Private industries,"Finance, insurance, real estate, rental, and leasing",Real estate and rental and leasing,Real estate
+                    Housing, Private industries,"Finance, insurance, real estate, rental, and leasing",Real estate and rental and leasing,Housing
+                    Other real estate, Private industries,"Finance, insurance, real estate, rental, and leasing",Real estate and rental and leasing,Other real estate
+                Rental and leasing services and lessors of intangible assets, Private industries,"Finance, insurance, real estate, rental, and leasing",Rental and leasing services and lessors of intangible assets,
+        Professional and business services, Private industries,Professional and business services,Rental and leasing services and lessors of intangible assets,
+"            Professional, scientific, and technical services", Private industries,Professional and business services,"Professional, scientific, and technical services",
+                Legal services, Private industries,Professional and business services,"Professional, scientific, and technical services",Legal services
+                Computer systems design and related services, Private industries,Professional and business services,"Professional, scientific, and technical services",Computer systems design and related services
+"                Miscellaneous professional, scientific, and technical services", Private industries,Professional and business services,"Professional, scientific, and technical services","Miscellaneous professional, scientific, and technical services"
+            Management of companies and enterprises, Private industries,Professional and business services,Management of companies and enterprises,
+            Administrative and waste management services, Private industries,Professional and business services,Administrative and waste management services,
+                Administrative and support services, Private industries,Professional and business services,Administrative and waste management services,Administrative and support services
+                Waste management and remediation services, Private industries,Professional and business services,Administrative and waste management services,Waste management and remediation services
+"        Educational services, health care, and social assistance", Private industries,"Educational services, health care, and social assistance",Administrative and waste management services,
+            Educational services, Private industries,"Educational services, health care, and social assistance",Administrative and waste management services,
+            Health care and social assistance, Private industries,"Educational services, health care, and social assistance",Health care and social assistance,
+                Ambulatory health care services, Private industries,"Educational services, health care, and social assistance",Health care and social assistance,Ambulatory health care services
+                Hospitals, Private industries,"Educational services, health care, and social assistance",Health care and social assistance,Hospitals
+                Nursing and residential care facilities, Private industries,"Educational services, health care, and social assistance",Health care and social assistance,Nursing and residential care facilities
+                Social assistance, Private industries,"Educational services, health care, and social assistance",Health care and social assistance,Social assistance
+"        Arts, entertainment, recreation, accommodation, and food services", Private industries,"Arts, entertainment, recreation, accommodation, and food services",Health care and social assistance,
+"            Arts, entertainment, and recreation", Private industries,"Arts, entertainment, recreation, accommodation, and food services","Arts, entertainment, and recreation",
+"                Performing arts, spectator sports, museums, and related activities", Private industries,"Arts, entertainment, recreation, accommodation, and food services","Arts, entertainment, and recreation","Performing arts, spectator sports, museums, and related activities"
+"                Amusements, gambling, and recreation industries", Private industries,"Arts, entertainment, recreation, accommodation, and food services","Arts, entertainment, and recreation","Amusements, gambling, and recreation industries"
+            Accommodation and food services, Private industries,"Arts, entertainment, recreation, accommodation, and food services",Accommodation and food services,
+                Accommodation, Private industries,"Arts, entertainment, recreation, accommodation, and food services",Accommodation and food services,Accommodation
+                Food services and drinking places, Private industries,"Arts, entertainment, recreation, accommodation, and food services",Accommodation and food services,Food services and drinking places
+"        Other services, except government", Private industries,"Arts, entertainment, recreation, accommodation, and food services","Other services, except government",
+    Government,Government,"Arts, entertainment, recreation, accommodation, and food services","Other services, except government",
+        Federal,Government,"Arts, entertainment, recreation, accommodation, and food services","Other services, except government",
+            General government,Government,General government,"Other services, except government",
+                National defense,Government,General government,National defense,
+                Nondefense,Government,General government,Nondefense,
+            Government enterprises,Government,General government,Government enterprises,
+        State and local,Government,State and local,Government enterprises,
+            General government,Government,State and local,General government,
+            Government enterprises,Government,State and local,Government enterprises,
